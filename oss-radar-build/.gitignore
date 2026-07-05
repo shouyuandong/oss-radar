@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Obsidian (如果作为 vault 子目录使用)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

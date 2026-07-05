@@ -1,0 +1,99 @@
+week,rank,repo,language,weekly_stars,total_stars,category,purpose,principle
+2026-W23,1,chopratejas/headroom,Python,13308,16859,LLM Token 压缩,LLM 输入前智能压缩省 60-95% token,日志/文件/RAG 片段送入 LLM 前压缩，提供库/代理/MCP Server 三种接入
+2026-W23,2,microsoft/markitdown,Python,15015,147287,文档转 Markdown,将 PDF/Word/PPT/Excel/音视频一键转 Markdown,Python 解析各类文档格式转 Markdown，LLM 预处理层事实标配
+2026-W23,3,harry0703/MoneyPrinterTurbo,Python,9174,81141,AI 短视频生成,接入 LLM 一键生成高清短视频,文案→配音→字幕→素材→剪辑全流程自动化
+2026-W23,4,supermemoryai/supermemory,TypeScript,2992,26005,AI 记忆引擎,面向 AI 应用的极速可扩展 Memory API,Cloudflare Workers+PostgreSQL 分布式记忆引擎
+2026-W23,5,affaan-m/ECC,JavaScript,10351,209800,Agent 性能优化,为 Claude Code/Codex/Cursor 注入技能/本能/记忆/安全四维优化,四维体系扩展 Agent 工程能力，零配置兼容多框架
+2026-W23,6,Open-LLM-VTuber/Open-LLM-VTuber,Python,2273,10340,AI 语音交互,本地运行 Live2D 虚拟形象，语音与 LLM 实时对话,完全离线：LLM+语音识别+合成+Live2D 渲染全部本地化
+2026-W23,7,revfactory/harness,HTML,2098,6409,Agent 编排,元技能：设计领域特定 Agent 团队并生成技能配置,输入领域描述，输出完整 Agent 团队方案+技能分配
+2026-W23,8,mvanhorn/last30days-skill,Python,1801,30747,Agent 研究技能,跨 Reddit/X/YouTube/HN/Polymarket 研究任意话题,Agent 技能跨多平台聚合信息生成有据可查的摘要
+2026-W23,9,Leonxlnx/taste-skill,Shell,6085,36515,Agent 审美技能,赋予 AI Agent 审美品味，拦截平庸生成内容,注入设计原则与审美规则，拦截 AI 通用平庸输出
+2026-W23,10,EveryInc/compound-engineering-plugin,TypeScript,1752,20356,Agent 工程插件,Compound Engineering 官方插件，为多平台注入工程实践,将企业级工程实践封装为可复用 Agent 插件
+2026-W23,11,can1357/oh-my-pi,TypeScript,2318,11081,终端 AI 编程 Agent,终端 AI 编程 Agent，哈希锚定编辑+LSP+子代理,Hash-anchored 编辑精确定位代码行，Rust+TS 双语言架构
+2026-W23,12,openai/plugins,JavaScript,360,2009,AI 插件规范,OpenAI 官方插件仓库与开发规范,插件开发规范+示例代码+工具链
+2026-W23,13,aquasecurity/trivy,Go,711,36105,安全扫描,检测容器/K8s/代码/云环境中的漏洞与配置错误,Go 全栈扫描，SBOM 生成，CI/CD 集成
+2026-W23,14,Panniantong/Agent-Reach,Python,1513,23130,Agent 全网访问,让 Agent 零 API 费用读取 17 个平台内容,CLI 爬取各平台公开内容，无需付费 API
+2026-W23,15,NousResearch/hermes-agent,Python,11355,185850,AI Agent 框架,通用 Agent 框架，支持多模型后端与技能系统,持续学习积累技能的 Agent 平台，多模型后端切换
+2026-W23,16,lfnovo/open-notebook,TypeScript,2588,27192,知识管理,NotebookLM 开源平替，支持多源导入,AI 驱动摘要/问答/知识点提取，完全本地部署
+2026-W23,17,pbakaus/impeccable,JavaScript,3562,35527,AI 设计语言,定义设计规则让 AI 生成界面具备专业审美,设计原则体系作为 Agent 技能安装，实时审美评估
+2026-W23,18,nesquena/hermes-webui,Python,4418,13827,Agent Web UI,为 hermes-agent 提供网页端和移动端界面,Python+FastAPI 后端，响应式 Web UI 管理 Agent
+2026-W23,19,dmtrKovalenko/fff,Rust,983,7666,文件搜索,面向 AI Agent/Neovim/Rust 的极速文件搜索工具包,Rust 实现高性能精确文件搜索，CLI+Neovim+NodeJS 绑定
+2026-W24,1,mvanhorn/last30days-skill,Python,12602,41962,Agent 研究技能,跨多平台一键研究任意话题并生成摘要,Agent 技能跨 Reddit/X/YouTube/HN/Polymarket 聚合信息
+2026-W24,2,apple/container,Swift,9173,36944,Mac 容器化,Apple 官方 Mac 容器化工具，轻量 VM 跑 Linux,Swift 实现，基于 macOS 虚拟化框架，专为 Apple Silicon 优化
+2026-W24,3,phuryn/pm-skills,未指定,5408,18022,PM Agent 技能,产品经理 Agent 技能市场，100+ 技能,策展式组织 PM 技能为可安装技能市场，覆盖发现到增长全流程
+2026-W24,4,chopratejas/headroom,Python,10406,27501,LLM Token 压缩,LLM 输入前智能压缩省 60-95% token,日志/文件/RAG 片段压缩，库/代理/MCP Server 接入
+2026-W24,5,NVIDIA/SkillSpector,Python,2799,5223,Agent 安全扫描,NVIDIA 出品：AI Agent 技能安全扫描器,扫描 Agent 技能检测漏洞、恶意模式与安全风险
+2026-W24,6,addyosmani/agent-skills,Shell,9348,59433,Agent 工程技能,面向 AI 编码 Agent 的生产级工程技能集合,沉淀工程实践为可安装到 Claude Code/Cursor 的技能库
+2026-W24,7,Panniantong/Agent-Reach,Python,5183,28692,Agent 全网访问,让 Agent 零 API 费用读取 17 个平台内容,CLI 爬取各平台公开内容，无需付费 API
+2026-W24,8,refactoringhq/tolaria,TypeScript,3708,16206,知识管理,管理 markdown 知识库的桌面应用,桌面端 markdown 知识库管理与组织工具
+2026-W24,9,openai/plugins,JavaScript,1298,3024,AI 插件规范,OpenAI 官方插件仓库与开发规范,插件开发规范+示例代码+工具链
+2026-W24,10,Leonxlnx/taste-skill,Shell,8097,43654,Agent 审美技能,赋予 AI Agent 审美品味，拦截平庸生成内容,注入设计原则与审美规则提升输出质量
+2026-W24,11,microsoft/markitdown,Python,6635,153322,文档转 Markdown,将各类文件一键转 Markdown,Python 解析文档格式转 Markdown，LLM 预处理层标配
+2026-W24,12,aaif-goose/goose,Rust,2366,49363,AI Agent 框架,开源可扩展 AI Agent，超越代码建议,Rust 实现的通用 Agent，支持安装/执行/编辑/测试
+2026-W24,13,roboflow/supervision,Python,4022,44188,计算机视觉,可复用的计算机视觉工具库,提供检测/标注/跟踪等可复用 CV 工具
+2026-W24,14,music-assistant/server,Python,476,2166,音乐管理,开源媒体库管理器，连接流媒体服务和音箱,Python 服务器端，连接多 streaming 服务与音箱设备
+2026-W24,15,safishamsi/graphify,Python,5478,67124,代码知识图谱,将代码/SQL/文档/图像转为可查询知识图谱,Agent 技能：多源素材构建统一知识图谱供查询
+2026-W24,16,microsoft/PowerToys,C,826,134872,Windows 工具,Microsoft PowerToys 效率工具集,C 实现的 Windows 效率增强工具合集
+2026-W24,17,mattermost/mattermost,TypeScript,754,37811,团队协作,开源安全协作平台,TypeScript 全栈开源协作平台，替代 Slack
+2026-W24,18,lfnovo/open-notebook,TypeScript,3570,30504,知识管理,NotebookLM 开源平替,AI 驱动摘要/问答/知识点提取，完全本地部署
+2026-W24,19,opencv/opencv,C++,1237,89121,计算机视觉,开源计算机视觉库,C++ 实现，涵盖图像处理/视频分析/ML 等 CV 全栈
+2026-W24,20,huggingface/OpenEnv,Python,235,2210,RL 训练,HuggingFace 出品：RL 后训练环境接口库,Python 接口库，为强化学习后训练提供环境抽象
+2026-W25,1,DeusData/codebase-memory-mcp,C,5419,10204,代码智能 / MCP,将代码库索引为持久知识图谱，158 语言毫秒查询,C 高性能解析器构建 AST+符号引用知识图谱，MCP 暴露查询
+2026-W25,2,chopratejas/headroom,Python,14982,44187,LLM Token 压缩,LLM 输入前智能压缩省 60-95% token,日志/文件/RAG 片段压缩，库/代理/MCP Server 接入
+2026-W25,3,Panniantong/Agent-Reach,Python,8483,36799,Agent 全网访问,让 Agent 零 API 费用读取 17 个平台内容,CLI 爬取各平台公开内容，无需付费 API
+2026-W25,4,iptv-org/iptv,TypeScript,7856,127101,IPTV 资源,全球公开 IPTV 频道持续维护合集,社区维护的全球 IPTV 播放列表合集
+2026-W25,5,n0-computer/iroh,Rust,1621,10441,网络协议,模块化 Rust 网络栈，用密钥而非 IP 地址拨号,Rust 实现基于密钥的 P2P 网络栈，避免 IP 地址失效
+2026-W25,6,google-research/timesfm,Python,3655,24868,时序基础模型,Google Research 时序预测基础模型,预训练时序基础模型，支持时间序列预测任务
+2026-W25,7,NVIDIA/SkillSpector,Python,4631,9006,Agent 安全扫描,NVIDIA 出品：AI Agent 技能安全扫描器,扫描 Agent 技能检测漏洞、恶意模式与安全风险
+2026-W25,8,asgeirtj/system_prompts_leaks,JavaScript,1866,44342,提示词泄露,收录 Claude/ChatGPT/Gemini/Grok 等系统提示词,持续收集整理各 AI 产品系统提示词并公开
+2026-W25,9,calesthio/OpenMontage,Python,2253,8564,AI 视频制作,开源智能体视频制作系统，12 流水线/52 工具,视频制作拆解为多阶段 Agent 流水线端到端自动化
+2026-W25,10,withastro/flue,TypeScript,1012,6287,Agent 框架,Astro 团队出品的沙箱 Agent 框架,TypeScript 沙箱化 Agent 执行框架
+2026-W25,11,addyosmani/agent-skills,Shell,6332,64725,Agent 工程技能,面向 AI 编码 Agent 的生产级工程技能集合,沉淀工程实践为可安装技能库
+2026-W25,12,Kong/insomnia,TypeScript,657,39510,API 客户端,开源跨平台 API 客户端，支持 GraphQL/REST/gRPC,TypeScript 实现，支持多种 API 协议的调试客户端
+2026-W25,13,tursodatabase/turso,Rust,968,20766,数据库,进程内 SQL 数据库，兼容 SQLite,Rust 实现的嵌入式 SQL 数据库，SQLite 兼容
+2026-W25,14,makeplane/plane,TypeScript,1389,52331,项目管理,开源 Jira/Linear 替代品,TypeScript 现代项目管理平台，任务/冲刺/文档
+2026-W25,15,LMCache/LMCache,Python,713,9537,LLM 推理加速,LLM 最快 KV Cache 层,Python 实现高性能 KV Cache 加速 LLM 推理
+2026-W25,16,meshery/meshery,TypeScript,898,11222,云原生管理,云原生管理平台,TypeScript 实现的云原生基础设施管理工具
+2026-W25,17,chatwoot/chatwoot,Ruby,2233,33105,客服系统,开源全渠道客服平台,Ruby 全栈实现，替代 Intercom/Zendesk
+2026-W25,18,swc-project/swc,Rust,538,34103,Web 编译,Rust 实现的 Web 编译平台,Rust 高性能 JS/TS 编译器，替代 Babel
+2026-W25,19,freeCodeCamp/freeCodeCamp,TypeScript,3308,450068,编程学习,freeCodeCamp 开源课程平台,TypeScript 全栈学习平台，免费编程课程
+2026-W26,1,calesthio/OpenMontage,Python,18000,26838,AI 视频制作,开源智能体视频制作系统，12 流水线/52 工具,视频制作拆解为多阶段 Agent 流水线端到端自动化
+2026-W26,2,DeusData/codebase-memory-mcp,C,7674,19514,代码智能 / MCP,将代码库索引为持久知识图谱，158 语言毫秒查询,C 高性能解析器构建 AST+符号引用知识图谱，MCP 暴露查询
+2026-W26,3,kunchenguid/no-mistakes,Go,2229,4046,Git 工具,git push no-mistakes 防误推送,Go 实现的 Git pre-push 钩子，拦截误操作推送
+2026-W26,4,palmier-io/palmier-pro,Swift,6126,9297,AI 视频编辑,macOS 平台 AI 视频编辑器,Swift 实现 macOS 原生视频编辑，AI 辅助剪辑
+2026-W26,5,google-labs-code/design.md,TypeScript,6014,22812,AI 设计规范,向编码 Agent 描述视觉身份的格式规范,定义 DESIGN.md 格式让 Agent 持久理解设计系统
+2026-W26,6,JCodesMore/ai-website-cloner-template,TypeScript,4565,22773,AI 网站克隆,一行命令用 AI Agent 克隆任意网站,抓取目标 DOM 与样式喂给 Agent 生成前端模板，迭代修补
+2026-W26,7,simplex-chat/simplex-chat,Haskell,1973,14927,隐私通讯,首个无任何用户标识符的消息网络,不分配用户 ID，双向临时队列建立连接，路由层不存储标识
+2026-W26,8,interviewstreet/hiring-agent,Python,1836,3162,AI 招聘,AI Agent 评估和评分简历,Python 实现的简历评估 Agent，自动打分筛选候选人
+2026-W26,9,ZhuLinsen/daily_stock_analysis,Python,7137,51085,AI 股票分析,LLM 多市场股票分析，多源行情+新闻+决策看板,定时拉取行情新闻→LLM 分析→写看板+推送，零成本运行
+2026-W26,10,stablyai/orca,TypeScript,2554,8590,Agent 并行调度,并行 Agent 舰队管理 ADE，桌面+移动端,TypeScript 实现多 Agent 并行调度管理，跨桌面移动端
+2026-W26,11,Panniantong/Agent-Reach,Python,7676,44402,Agent 全网访问,让 Agent 零 API 费用读取 17 个平台内容,CLI 爬取各平台公开内容，无需付费 API
+2026-W26,12,mukul975/Anthropic-Cybersecurity-Skills,Python,5121,22624,Agent 安全技能,817 个结构化网安技能，映射 6 大安全框架,按 MITRE ATT&CK 等框架组织安全技能，可插拔到 20+ 平台
+2026-W26,13,penpot/penpot,Clojure,3343,54381,设计工具,开源设计工具，设计与代码协作,Clojure 实现的开源设计工具，替代 Figma
+2026-W26,14,BuilderIO/agent-native,TypeScript,1474,2873,Agent 应用框架,构建 Agent 原生应用的框架,TypeScript 框架，为 Agent 原生应用设计的基础设施
+2026-W26,15,jamiepine/voicebox,TypeScript,3965,35395,AI 语音,开源 AI 语音工作室，克隆/听写/创作,TypeScript 实现 TTS/语音克隆/听写的全栈语音工具
+2026-W26,16,aws/agent-toolkit-for-aws,Python,524,1540,AWS Agent 工具,AWS 官方 MCP 服务器/技能/插件,Python 实现 AWS 官方 Agent 工具包，MCP 服务器+技能+插件
+2026-W26,17,alibaba/page-agent,TypeScript,1649,20465,网页 GUI Agent,JavaScript 网页内 GUI Agent，自然语言控制界面,TypeScript 注入网页的 GUI Agent，解析 DOM 执行自然语言指令
+2026-W26,18,Stirling-Tools/Stirling-PDF,Java,3231,84935,PDF 工具,GitHub #1 PDF 应用，全设备编辑 PDF,Java 实现的 PDF 编辑工具，全平台支持
+2026-W26,19,koala73/worldmonitor,TypeScript,2735,60684,全球情报看板,实时全球情报仪表板，AI 新闻聚合+地缘监测,TypeScript 实现 AI 驱动的全球情报聚合与态势感知
+2026-W26,20,NanmiCoder/MediaCrawler,Python,2225,54012,社交媒体爬虫,小红书/抖音/快手/B站/微博/贴吧/知乎爬虫,Python 实现多平台社交媒体内容与评论爬虫
+2026-W27,1,msitarzewski/agency-agents,Shell,10483,127017,AI Agent 角色库,一整套 AI 代理机构的专业 Agent 模板,Shell 脚本组织 Agent 提示词模板与工作流配置
+2026-W27,2,DeusData/codebase-memory-mcp,C,10186,26140,代码智能 / MCP,将代码库索引为持久知识图谱，158 语言毫秒查询,C 高性能解析器构建 AST+符号引用知识图谱，MCP 暴露查询
+2026-W27,3,calesthio/OpenMontage,Python,9213,33080,AI 视频制作,开源智能体视频制作系统，12 流水线/52 工具,视频制作拆解为多阶段 Agent 流水线端到端自动化
+2026-W27,4,usestrix/strix,Python,7567,35987,AI 安全测试,开源 AI 渗透测试工具，自动发现并修复漏洞,大模型安全分析+传统渗透工具链，Agent 自主规划攻击路径
+2026-W27,5,xbtlin/ai-berkshire,Python,6230,9655,AI 投资研究,基于 Claude Code/Codex 的价值投资框架,四位大师方法论编码为 Agent 角色，多 Agent 对抗式分析
+2026-W27,6,simplex-chat/simplex-chat,Haskell,5971,17844,隐私通讯,首个无任何用户标识符的消息网络,不分配用户 ID，双向临时队列建立连接，路由层不存储标识
+2026-W27,7,JCodesMore/ai-website-cloner-template,TypeScript,4205,25542,AI 网站克隆,一行命令用 AI Agent 克隆任意网站,抓取目标 DOM 与样式喂给 Agent 生成前端模板，迭代修补
+2026-W27,8,browser-use/video-use,Python,4056,14665,AI 视频编辑,用编程 Agent 编辑视频,视频编辑操作抽象为工具 API，Agent 编排调用序列
+2026-W27,9,topoteretes/cognee,Python,4001,26967,AI 记忆平台,开源 Agent 持久长期记忆，自托管知识图谱,文档经 LLM 抽取实体关系构建图谱，向量化语义检索
+2026-W27,10,ZhuLinsen/daily_stock_analysis,Python,3912,54256,AI 股票分析,LLM 多市场股票分析，多源行情+新闻+看板+推送,定时拉取行情新闻→LLM 分析→写看板+推送，零成本运行
+2026-W27,11,stablyai/orca,TypeScript,3700,12011,Agent 并行调度,并行 Agent 舰队管理 ADE，桌面+移动端,TypeScript 实现多 Agent 并行调度管理，跨桌面移动端
+2026-W27,12,diegosouzapw/OmniRoute,TypeScript,3631,11292,AI 网关,免费 AI 网关，231+ 供应商，连接主流编程 Agent,TypeScript 统一端点聚合 231+ AI 供应商，智能故障转移+token 压缩
+2026-W27,13,ogulcancelik/herdr,Rust,3024,11406,Agent 多路复用,终端 Agent 多路复用器,Rust 实现终端多 Agent 并发调度
+2026-W27,14,Robbyant/lingbot-map,Python,2171,9724,3D 基础模型,前馈 3D 基础模型，从流数据重建场景,Python 实现前馈 3D 场景重建，处理流式数据输入
+2026-W27,15,alibaba/page-agent,TypeScript,1901,23076,网页 GUI Agent,JavaScript 网页内 GUI Agent，自然语言控制界面,TypeScript 注入网页的 GUI Agent，解析 DOM 执行自然语言指令
+2026-W27,16,interviewstreet/hiring-agent,Python,1643,4687,AI 招聘,AI Agent 评估和评分简历,Python 实现的简历评估 Agent，自动打分筛选
+2026-W27,17,logto-io/logto,TypeScript,1368,13721,认证授权,SaaS 和 AI 应用的认证授权基础设施,TypeScript 实现 OIDC/OAuth 2.1 认证，多租户+SSO+RBAC
+2026-W27,18,openai/codex-plugin-cc,JavaScript,1296,24341,Codex 插件,在 Claude Code 中使用 Codex 审查代码或委派任务,JavaScript 桥接 Codex 到 Claude Code，跨 Agent 协作
+2026-W27,19,allenai/olmocr,Python,1216,18696,PDF 处理,为 LLM 数据集/训练线性化 PDF 的工具包,Python 实现 PDF 文档线性化，适配 LLM 训练数据格式
+2026-W27,20,Starmel/OpenSuperWhisper,Swift,494,1707,语音听写,macOS 听写应用,Swift 实现 macOS 原生语音听写

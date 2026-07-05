@@ -1,0 +1,198 @@
+{
+  "week": "2026-W23",
+  "period": "2026-06-01 ~ 2026-06-07",
+  "collected_at": "2026-07-05T07:37:00+08:00",
+  "source": "git-trending-rank.github.io (真实 GitHub Trending 周榜)",
+  "projects": [
+    {
+      "rank": 1,
+      "repo": "chopratejas/headroom",
+      "language": "Python",
+      "weekly_stars": 13308,
+      "total_stars": 16859,
+      "category": "LLM Token 压缩",
+      "purpose": "LLM 输入前智能压缩省 60-95% token",
+      "principle": "日志/文件/RAG 片段送入 LLM 前压缩，提供库/代理/MCP Server 三种接入"
+    },
+    {
+      "rank": 2,
+      "repo": "microsoft/markitdown",
+      "language": "Python",
+      "weekly_stars": 15015,
+      "total_stars": 147287,
+      "category": "文档转 Markdown",
+      "purpose": "将 PDF/Word/PPT/Excel/音视频一键转 Markdown",
+      "principle": "Python 解析各类文档格式转 Markdown，LLM 预处理层事实标配"
+    },
+    {
+      "rank": 3,
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "language": "Python",
+      "weekly_stars": 9174,
+      "total_stars": 81141,
+      "category": "AI 短视频生成",
+      "purpose": "接入 LLM 一键生成高清短视频",
+      "principle": "文案→配音→字幕→素材→剪辑全流程自动化"
+    },
+    {
+      "rank": 4,
+      "repo": "supermemoryai/supermemory",
+      "language": "TypeScript",
+      "weekly_stars": 2992,
+      "total_stars": 26005,
+      "category": "AI 记忆引擎",
+      "purpose": "面向 AI 应用的极速可扩展 Memory API",
+      "principle": "Cloudflare Workers+PostgreSQL 分布式记忆引擎"
+    },
+    {
+      "rank": 5,
+      "repo": "affaan-m/ECC",
+      "language": "JavaScript",
+      "weekly_stars": 10351,
+      "total_stars": 209800,
+      "category": "Agent 性能优化",
+      "purpose": "为 Claude Code/Codex/Cursor 注入技能/本能/记忆/安全四维优化",
+      "principle": "四维体系扩展 Agent 工程能力，零配置兼容多框架"
+    },
+    {
+      "rank": 6,
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "language": "Python",
+      "weekly_stars": 2273,
+      "total_stars": 10340,
+      "category": "AI 语音交互",
+      "purpose": "本地运行 Live2D 虚拟形象，语音与 LLM 实时对话",
+      "principle": "完全离线：LLM+语音识别+合成+Live2D 渲染全部本地化"
+    },
+    {
+      "rank": 7,
+      "repo": "revfactory/harness",
+      "language": "HTML",
+      "weekly_stars": 2098,
+      "total_stars": 6409,
+      "category": "Agent 编排",
+      "purpose": "元技能：设计领域特定 Agent 团队并生成技能配置",
+      "principle": "输入领域描述，输出完整 Agent 团队方案+技能分配"
+    },
+    {
+      "rank": 8,
+      "repo": "mvanhorn/last30days-skill",
+      "language": "Python",
+      "weekly_stars": 1801,
+      "total_stars": 30747,
+      "category": "Agent 研究技能",
+      "purpose": "跨 Reddit/X/YouTube/HN/Polymarket 研究任意话题",
+      "principle": "Agent 技能跨多平台聚合信息生成有据可查的摘要"
+    },
+    {
+      "rank": 9,
+      "repo": "Leonxlnx/taste-skill",
+      "language": "Shell",
+      "weekly_stars": 6085,
+      "total_stars": 36515,
+      "category": "Agent 审美技能",
+      "purpose": "赋予 AI Agent 审美品味，拦截平庸生成内容",
+      "principle": "注入设计原则与审美规则，拦截 AI 通用平庸输出"
+    },
+    {
+      "rank": 10,
+      "repo": "EveryInc/compound-engineering-plugin",
+      "language": "TypeScript",
+      "weekly_stars": 1752,
+      "total_stars": 20356,
+      "category": "Agent 工程插件",
+      "purpose": "Compound Engineering 官方插件，为多平台注入工程实践",
+      "principle": "将企业级工程实践封装为可复用 Agent 插件"
+    },
+    {
+      "rank": 11,
+      "repo": "can1357/oh-my-pi",
+      "language": "TypeScript",
+      "weekly_stars": 2318,
+      "total_stars": 11081,
+      "category": "终端 AI 编程 Agent",
+      "purpose": "终端 AI 编程 Agent，哈希锚定编辑+LSP+子代理",
+      "principle": "Hash-anchored 编辑精确定位代码行，Rust+TS 双语言架构"
+    },
+    {
+      "rank": 12,
+      "repo": "openai/plugins",
+      "language": "JavaScript",
+      "weekly_stars": 360,
+      "total_stars": 2009,
+      "category": "AI 插件规范",
+      "purpose": "OpenAI 官方插件仓库与开发规范",
+      "principle": "插件开发规范+示例代码+工具链"
+    },
+    {
+      "rank": 13,
+      "repo": "aquasecurity/trivy",
+      "language": "Go",
+      "weekly_stars": 711,
+      "total_stars": 36105,
+      "category": "安全扫描",
+      "purpose": "检测容器/K8s/代码/云环境中的漏洞与配置错误",
+      "principle": "Go 全栈扫描，SBOM 生成，CI/CD 集成"
+    },
+    {
+      "rank": 14,
+      "repo": "Panniantong/Agent-Reach",
+      "language": "Python",
+      "weekly_stars": 1513,
+      "total_stars": 23130,
+      "category": "Agent 全网访问",
+      "purpose": "让 Agent 零 API 费用读取 17 个平台内容",
+      "principle": "CLI 爬取各平台公开内容，无需付费 API"
+    },
+    {
+      "rank": 15,
+      "repo": "NousResearch/hermes-agent",
+      "language": "Python",
+      "weekly_stars": 11355,
+      "total_stars": 185850,
+      "category": "AI Agent 框架",
+      "purpose": "通用 Agent 框架，支持多模型后端与技能系统",
+      "principle": "持续学习积累技能的 Agent 平台，多模型后端切换"
+    },
+    {
+      "rank": 16,
+      "repo": "lfnovo/open-notebook",
+      "language": "TypeScript",
+      "weekly_stars": 2588,
+      "total_stars": 27192,
+      "category": "知识管理",
+      "purpose": "NotebookLM 开源平替，支持多源导入",
+      "principle": "AI 驱动摘要/问答/知识点提取，完全本地部署"
+    },
+    {
+      "rank": 17,
+      "repo": "pbakaus/impeccable",
+      "language": "JavaScript",
+      "weekly_stars": 3562,
+      "total_stars": 35527,
+      "category": "AI 设计语言",
+      "purpose": "定义设计规则让 AI 生成界面具备专业审美",
+      "principle": "设计原则体系作为 Agent 技能安装，实时审美评估"
+    },
+    {
+      "rank": 18,
+      "repo": "nesquena/hermes-webui",
+      "language": "Python",
+      "weekly_stars": 4418,
+      "total_stars": 13827,
+      "category": "Agent Web UI",
+      "purpose": "为 hermes-agent 提供网页端和移动端界面",
+      "principle": "Python+FastAPI 后端，响应式 Web UI 管理 Agent"
+    },
+    {
+      "rank": 19,
+      "repo": "dmtrKovalenko/fff",
+      "language": "Rust",
+      "weekly_stars": 983,
+      "total_stars": 7666,
+      "category": "文件搜索",
+      "purpose": "面向 AI Agent/Neovim/Rust 的极速文件搜索工具包",
+      "principle": "Rust 实现高性能精确文件搜索，CLI+Neovim+NodeJS 绑定"
+    }
+  ]
+}
