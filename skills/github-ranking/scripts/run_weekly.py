@@ -33,7 +33,7 @@ from datetime import datetime, date
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(REPO_ROOT)
 
-CSV_PATH = os.path.join(REPO_ROOT, "all_weeks.csv")
+CSV_PATH = os.path.join(REPO_ROOT, "data/github-ranking/all_weeks.csv")
 REPORTS_DIR = os.path.join(REPO_ROOT, "reports")
 
 

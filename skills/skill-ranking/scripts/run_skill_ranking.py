@@ -19,7 +19,7 @@ import sys
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.chdir(REPO_ROOT)
 
-OUTPUT_DIR = os.path.join(REPO_ROOT, "skill-ranking")
+OUTPUT_DIR = os.path.join(REPO_ROOT, "data/skill-ranking")
 
 
 def generate_report_and_csv(repos, top=30):

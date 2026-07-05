@@ -22,7 +22,7 @@ import os
 import sys
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CSV_PATH = os.path.join(REPO_ROOT, "all_weeks.csv")
+CSV_PATH = os.path.join(REPO_ROOT, "data/github-ranking/all_weeks.csv")
 
 FIELDNAMES = ["week", "rank", "repo", "language", "weekly_stars",
               "total_stars", "category", "purpose", "principle"]
