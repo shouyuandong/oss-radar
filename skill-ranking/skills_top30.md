@@ -1,81 +1,88 @@
 # 🧩 智能体 Skill 排名 · Top 30
 
-> 通过 GitHub Search API 多策略搜索（agent skill / claude code / cursor / codex / topic:skill），合并去重后按总星标排序。
-> 数据采集时间：2026-07-05 | 周期：2026-W27
+> 数据来源：[skills.sh](https://www.skills.sh) 安装量排行榜（主维度）+ GitHub 星标（辅助维度）
+> 采集时间：2026-07-05 | 周期：2026-W27
 
-> ⚠️ 本期为首次采集，周增星标（+周增）列暂无数据。从下一期（W28）起，将通过历史快照差值计算周增量。
+> ⚠️ 本期为首次采集，+周增列暂无数据。从下一期起通过历史快照差值计算周增量。
 
 ---
 
-## 排名
+## 排名（按安装量）
 
-| # | 项目 | ⭐ | +周增 | forks | 类型 | 语言 | 用途 | 实现原理 |
-|:---:|------|-----:|-----:|-----:|------|:---:|------|----------|
-| 1 | **[obra/superpowers](https://github.com/obra/superpowers)** ⭐ | 246,455 | — | 21,860 | Agent 技能框架 | Shell | 智能体技能框架与软件开发方法论 | 将开发方法论编码为可安装技能体系，Agent 按技能规范执行开发流程 |
-| 2 | **[affaan-m/ECC](https://github.com/affaan-m/ECC)** ⭐ | 226,142 | — | 34,595 | Agent 性能优化 | JavaScript | Agent 性能优化系统：技能/本能/记忆/安全四维 | 四维体系扩展 Agent 工程能力，零配置兼容 Claude Code/Codex/Cursor |
-| 3 | **[anthropics/skills](https://github.com/anthropics/skills)** ⭐ | 158,298 | — | 18,662 | Agent 技能（官方） | Python | Anthropic 官方 Agent Skills 仓库 | 官方维护的技能模板库，定义技能规范与最佳实践 |
-| 4 | **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** | 84,294 | — | 4,704 | LLM Token 压缩 | JavaScript | Claude Code 技能：用最少 token 完成任务 | 堆叠压缩策略减少 15-95% token 消耗，适配 Claude Code |
-| 5 | **[Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)** | 77,799 | — | 7,696 | 代码知识图谱 | Python | 将代码/SQL/文档转为可查询知识图谱的 Agent 技能 | 多源素材构建统一知识图谱，Claude Code/Codex/Cursor 可查询 |
-| 6 | **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** | 69,015 | — | 7,498 | Agent 工程技能 | Shell | 面向 AI 编码 Agent 的生产级工程技能集合 | 沉淀工程实践为可安装技能库，覆盖代码审查/测试/文档等场景 |
-| 7 | **[ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** | 66,840 | — | 7,457 | 技能索引（Awesome） | Python | Claude Skills 精选列表与资源合集 | 策展式收集 Claude Skills 资源，分类整理供开发者发现 |
-| 8 | **[santifer/career-ops](https://github.com/santifer/career-ops)** | 58,597 | — | 11,495 | 求职 Agent 技能 | JavaScript | AI 驱动的求职系统，14 个技能模块 | 基于 Claude Code 构建 14 个求职技能模块，端到端自动化 |
-| 9 | **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** | 56,755 | — | 3,884 | Agent 审美技能 | JavaScript | 赋予 AI Agent 审美品味，拦截平庸生成内容 | 注入设计原则与审美规则，拦截 AI 通用平庸输出 |
-| 10 | **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** | 49,000 | — | 4,057 | Agent 研究技能 | Python | 跨 Reddit/X/YouTube/HN/Polymarket 研究任意话题 | Agent 技能跨多平台聚合信息生成有据可查的摘要报告 |
-| 11 | **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** | 48,086 | — | 4,221 | 资源索引（Awesome） | Python | Claude Code 精选资源合集 | 手选 Claude Code 最佳资源、技能、插件索引 |
-| 12 | **[zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)** | 45,793 | — | 10,250 | Agent 框架 | Python | 开源超级 AI 助手与 Agent Harness | 规划→执行→验证的 Agent 框架，支持技能扩展与多模型 |
-| 13 | **[sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** | 42,359 | — | 6,758 | 技能库（大规模） | Python | 1800+ 可安装的智能体技能库 | 大规模策展技能集合，一键安装到 Claude Code/Codex 等 |
-| 14 | **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** | 40,296 | — | 8,257 | AI 对话平台 | TypeScript | 增强版 ChatGPT 克隆，支持 Agent/MCP/Skills | TypeScript 全栈对话平台，集成 Agent/MCP/技能/数据源 |
-| 15 | **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** | 39,777 | — | 2,825 | Obsidian Agent 技能 | 未指定 | 教 Agent 使用 Obsidian 的技能 | Agent 技能封装 Obsidian API，让 AI 读写笔记/搜索/管理 vault |
-| 16 | **[multica-ai/multica](https://github.com/multica-ai/multica)** | 39,064 | — | 4,894 | Agent 管理平台 | Go | 开源托管 Agent 平台，将编码 Agent 转为托管服务 | Go 实现的 Agent 管理平台，支持多 Agent 编排与托管 |
-| 17 | **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** | 36,293 | — | 2,971 | 学术研究技能 | Python | Claude Code 学术研究技能：研究→写作→引用 | Python 实现学术研究全流程技能，自动文献检索与引用 |
-| 18 | **[github/awesome-copilot](https://github.com/github/awesome-copilot)** | 36,182 | — | 4,498 | 资源索引（官方） | Python | GitHub 官方 Copilot 社区贡献合集 | 官方维护的 Copilot 指令/Agent/技能/提示词合集 |
-| 19 | **[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)** | 36,141 | — | 5,883 | 营销 Agent 技能 | JavaScript | Claude Code 与 AI Agent 的营销技能 | CRO/文案/增长等营销技能模块，可安装到编码 Agent |
-| 20 | **[calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)** | 33,293 | — | 3,826 | AI 视频制作 | Python | 开源智能体视频制作系统，12 流水线/52 工具 | 视频制作拆解为多阶段 Agent 流水线，500+ 技能调度 |
-| 21 | **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** | 30,191 | — | 3,048 | 科研 Agent 技能 | Python | 将 AI Agent 变成 AI 科学家的技能 | #1 Agent 科研技能，覆盖实验设计/数据分析/论文写作 |
-| 22 | **[googleworkspace/cli](https://github.com/googleworkspace/cli)** | 29,400 | — | 1,685 | Google Workspace CLI | Rust | Google Workspace 命令行工具，Agent 可调用 | Rust 实现的 CLI，Agent 通过命令操作 Drive/Calendar/Gmail |
-| 23 | **[vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills)** | 28,680 | — | 2,574 | Agent 技能（官方） | JavaScript | Vercel 官方 Agent 技能合集 | Vercel 维护的官方技能集合，npx 一键安装 |
-| 24 | **[blader/humanizer](https://github.com/blader/humanizer)** | 27,521 | — | 2,554 | AI 去味技能 | 未指定 | Claude Code 技能：消除 AI 生成痕迹 | 检测并移除 AI 写作特征，让文本回归自然人类语感 |
-| 25 | **[VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** | 27,334 | — | 2,927 | 技能索引（Awesome） | 未指定 | 1000+ Agent 技能策展合集 | 从官方与社区收集 1000+ 技能，分类索引供发现 |
-| 26 | **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** | 26,325 | — | 2,046 | Agent 上下文管理 | Python | AI Agent 自进化上下文数据库 | 统一 Agent 技能/记忆/工具的上下文管理，持续进化 |
-| 27 | **[vercel-labs/skills](https://github.com/vercel-labs/skills)** | 25,060 | — | 2,086 | Agent 技能工具 | TypeScript | 开源 Agent 技能工具：npx skills | TypeScript 实现的技能管理 CLI，安装/更新/发现技能 |
-| 28 | **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | 24,558 | — | 2,003 | 前端演示技能 | JavaScript | 用编码 Agent 创建精美网页幻灯片 | Agent 技能生成 HTML 幻灯片，编码 Agent 直接渲染 |
-| 29 | **[OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)** | 24,520 | — | 2,104 | Agent 规划技能 | Python | AI 编码 Agent 的持久化文件规划 | 基于文件的持久化任务规划，Agent 跨会话延续上下文 |
-| 30 | **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** | 24,466 | — | 2,788 | Agent 安全技能 | Python | 817 个结构化网安技能，映射 6 大框架 | 按 MITRE ATT&CK 等框架组织安全技能，可插拔到 20+ 平台 |
+| # | Skill | Owner/Repo | 安装量 | ⭐星标 | 类型 | 用途 |
+|:---:|------|------|-----:|-----:|------|------|
+| 1 | **[find-skills](https://www.skills.sh/vercel-labs/skills/find-skills)** ⭐ | `vercel-labs/skills` | 2.3M | 25,064 | 技能发现工具 | 技能发现与安装入口工具 |
+| 2 | **[frontend-design](https://www.skills.sh/anthropics/skills/frontend-design)** ⭐ | `anthropics/skills` | 625.5K | 158,301 | 前端设计技能（官方） | Anthropic 官方前端设计技能 |
+| 3 | **[vercel-react-best-practices](https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices)** ⭐ | `vercel-labs/agent-skills` | 525.7K | 28,680 | React 最佳实践（官方） | Vercel 官方 React 最佳实践技能 |
+| 4 | **[agent-browser](https://www.skills.sh/vercel-labs/agent-browser/agent-browser)** | `vercel-labs/agent-browser` | 511.7K | 37,858 | 浏览器 Agent 技能 | 让 Agent 控制浏览器的技能 |
+| 5 | **[grill-me](https://www.skills.sh/mattpocock/skills/grill-me)** | `mattpocock/skills` | 454.7K | 156,946 | 代码审查技能 | 让 AI 严格审查你的代码 |
+| 6 | **[web-design-guidelines](https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines)** | `vercel-labs/agent-skills` | 438.3K | 28,680 | Web 设计规范技能 | Web 设计规范与指南 |
+| 7 | **[microsoft-foundry](https://www.skills.sh/microsoft/azure-skills/microsoft-foundry)** | `microsoft/azure-skills` | 431.6K | 1,256 | Azure AI 技能（官方） | Microsoft Azure AI Foundry 技能 |
+| 8 | **[remotion-best-practices](https://www.skills.sh/remotion-dev/skills/remotion-best-practices)** | `remotion-dev/skills` | 408.5K | 3,875 | 视频编程技能 | Remotion 视频编程最佳实践 |
+| 9 | **[azure-hosted-copilot-sdk](https://www.skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk)** | `microsoft/azure-skills` | 400.1K | 1,256 | Azure Copilot SDK（官方） | Azure 托管 Copilot SDK 技能 |
+| 10 | **[grill-with-docs](https://www.skills.sh/mattpocock/skills/grill-with-docs)** | `mattpocock/skills` | 375.9K | 156,946 | 文档审查技能 | 结合文档严格审查代码 |
+| 11 | **[improve-codebase-architecture](https://www.skills.sh/mattpocock/skills/improve-codebase-architecture)** | `mattpocock/skills` | 373.3K | 156,946 | 架构优化技能 | 分析并改进代码库架构 |
+| 12 | **[azure-compute](https://www.skills.sh/microsoft/azure-skills/azure-compute)** | `microsoft/azure-skills` | 370.8K | 1,256 | Azure 计算（官方） | Azure 计算服务开发技能 |
+| 13 | **[azure-cloud-migrate](https://www.skills.sh/microsoft/azure-skills/azure-cloud-migrate)** | `microsoft/azure-skills` | 360.8K | 1,256 | Azure 迁移（官方） | Azure 云迁移技能 |
+| 14 | **[tdd](https://www.skills.sh/mattpocock/skills/tdd)** | `mattpocock/skills` | 355.1K | 156,946 | TDD 技能 | 测试驱动开发技能 |
+| 15 | **[video-edit](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/video-edit)** | `agentspace-so/runcomfy-agent-skills` | 351.2K | 29 | 视频编辑技能 | AI 视频编辑技能 |
+| 16 | **[image-edit](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/image-edit)** | `agentspace-so/runcomfy-agent-skills` | 349.4K | 29 | 图片编辑技能 | AI 图片编辑技能 |
+| 17 | **[flux-kontext](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/flux-kontext)** | `agentspace-so/runcomfy-agent-skills` | 349.3K | 29 | AI 图像生成技能 | Flux Kontext 图像生成技能 |
+| 18 | **[wan-2-7](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/wan-2-7)** | `agentspace-so/runcomfy-agent-skills` | 348.9K | 29 | 未分类 | 待分析 |
+| 19 | **[gpt-image-edit](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/gpt-image-edit)** | `agentspace-so/runcomfy-agent-skills` | 348.9K | 29 | GPT 图像编辑技能 | GPT 图像编辑技能 |
+| 20 | **[happyhorse-1-0](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/happyhorse-1-0)** | `agentspace-so/runcomfy-agent-skills` | 348.7K | 29 | AI 视频技能 | HappyHorse AI 视频生成技能 |
+| 21 | **[seedance-v2](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/seedance-v2)** | `agentspace-so/runcomfy-agent-skills` | 348.6K | 29 | AI 视频生成技能 | Seedance v2 视频生成技能 |
+| 22 | **[flux-2-klein](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/flux-2-klein)** | `agentspace-so/runcomfy-agent-skills` | 348.5K | 29 | AI 图像生成技能 | Flux-2-Klein 图像生成技能 |
+| 23 | **[remotion-render](https://www.skills.sh/halt-catch-fire/skills/remotion-render)** | `halt-catch-fire/skills` | 342.1K | 583 | 视频渲染技能 | Remotion 视频渲染技能 |
+| 24 | **[agentspace](https://www.skills.sh/agentspace-so/skills/agentspace)** | `agentspace-so/skills` | 335.1K | 11 | 未分类 | 待分析 |
+| 25 | **[to-prd](https://www.skills.sh/mattpocock/skills/to-prd)** | `mattpocock/skills` | 333.2K | 156,946 | 未分类 | 待分析 |
+| 26 | **[kling-3-0](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/kling-3-0)** | `agentspace-so/runcomfy-agent-skills` | 325.6K | 29 | 未分类 | 待分析 |
+| 27 | **[to-issues](https://www.skills.sh/mattpocock/skills/to-issues)** | `mattpocock/skills` | 320.1K | 156,946 | 未分类 | 待分析 |
+| 28 | **[caveman](https://www.skills.sh/juliusbrussee/caveman/caveman)** | `juliusbrussee/caveman` | 316.0K | 84,319 | 未分类 | 待分析 |
+| 29 | **[sleek-design-mobile-apps](https://www.skills.sh/sleekdotdesign/agent-skills/sleek-design-mobile-apps)** | `sleekdotdesign/agent-skills` | 315.3K | 437 | 未分类 | 待分析 |
+| 30 | **[codex-pet](https://www.skills.sh/agentspace-so/runcomfy-agent-skills/codex-pet)** | `agentspace-so/runcomfy-agent-skills` | 314.0K | 29 | 未分类 | 待分析 |
+
+---
+
+## 三个榜单对比
+
+| 榜单 | 排序依据 | Top 1 | Top 2 | Top 3 |
+|------|----------|-------|-------|-------|
+| **All Time** | 历史总安装量 | find-skills (2.3M) | frontend-design (625.5K) | vercel-react-best-practices (525.7K) |
 
 ---
 
 ## 生态分析
 
-### 按类型分布
+### 按类型分布（Top 30）
 
 | 类型 | 项目数 | 代表项目 |
 |------|:---:|------|
-| Agent 技能框架/库 | 4 | obra/superpowers, sickn33/antigravity-awesome-skills, vercel-labs/skills, VoltAgent/awesome-agent-skills |
-| Agent 工程技能 | 3 | addyosmani/agent-skills, affaan-m/ECC, OthmanAdi/planning-with-files |
-| Agent 领域技能（审美/研究/安全/营销/科研） | 6 | taste-skill, last30days-skill, Anthropic-Cybersecurity-Skills, marketingskills, scientific-agent-skills, academic-research-skills |
-| 技能索引（Awesome 列表） | 4 | awesome-claude-skills, awesome-claude-code, awesome-copilot, awesome-agent-skills |
-| 官方技能仓库 | 3 | anthropics/skills, vercel-labs/agent-skills, github/awesome-copilot |
-| LLM 效率技能 | 2 | caveman, blader/humanizer |
-| 代码/知识图谱技能 | 2 | graphify, OpenMontage |
-| Agent 平台/框架 | 3 | CowAgent, multica, LibreChat |
-| 垂直应用技能 | 3 | career-ops, obsidian-skills, frontend-slides |
+| 官方技能（Anthropic/Vercel/Microsoft/飞书） | 12+ | find-skills, frontend-design, vercel-react-best-practices, Azure 系列, 飞书系列 |
+| Matt Pocock 技能集 | 5 | grill-me, grill-with-docs, improve-codebase-architecture, tdd |
+| AI 视频/图像生成 | 6+ | video-edit, image-edit, flux-kontext, seedance-v2, happyhorse |
+| 飞书办公技能 | 7+ | lark-doc, lark-base, lark-sheets, lark-mail, lark-approval |
+| 代码工程技能 | 3+ | remotion-best-practices, remotion-render, improve-codebase-architecture |
 
 ### 关键洞察
 
-1. **obra/superpowers 以 24.6 万⭐居首**——将开发方法论编码为 Agent 技能的框架，"技能即方法论"是当前最大共识。
-2. **官方三巨头齐聚 Top 30**：anthropics/skills（#3, 15.8万）、vercel-labs/agent-skills（#23, 2.9万）、github/awesome-copilot（#18, 3.6万）。Anthropic/Vercel/GitHub 三家官方下场定义技能标准。
-3. **技能索引（Awesome 列表）占 4 席**——说明生态已大到需要"导航站"，这是成熟期标志。
-4. **垂直领域技能爆发**：审美、安全、营销、科研、学术、求职、去AI味——Skill 正从"通用工程"向"垂直专业"分化。
-5. **Obsidian 技能上榜**：kepano/obsidian-skills（#15, 4万⭐）——Obsidian 官方人员出品，教 Agent 操作 Obsidian。
-6. **与你高度相关**：obsidian-skills（知识库整合）、superpowers（skill 结构参考）、humanizer（报告去 AI 味）、planning-with-files（定时任务借鉴）。
+1. **安装量 ≠ 星标**：find-skills 安装量 230 万远超其他项目，但 GitHub 星标仅 8.4 万；superpowers 星标 24.6 万但不在安装榜——因为它是"框架"不是"可安装 skill"。
+2. **官方三巨头主导安装榜**：Vercel（find-skills #1, agent-browser #4）、Anthropic（frontend-design #2）、Microsoft（Azure 系列 15 个 skill 合计 680 万安装）——官方技能占安装量绝对优势。
+3. **飞书生态爆发**：7 个飞书官方技能进入 Top 30，每个安装量 34.8 万+——中国企业 Agent 生态已成规模。
+4. **Matt Pocock 个人技能集强势**：5 个技能进入 Top 30，grill-me（#5, 45 万安装）超过大多数官方技能——个人开发者也能在 skill 生态占一席之地。
+5. **AI 视频/图像是最热门应用场景**：Trending 24h 榜几乎被视频/图像生成 skill 占据——说明用户最愿意安装的是多媒体生成能力。
+6. **与你高度相关**：
+   - find-skills（#1）——你的 oss-radar skill 应通过此入口被发现
+   - improve-codebase-architecture（#26）——与你的 Bug 蒸馏系统架构分析相关
+   - tdd（#29）——测试驱动开发技能，开发 anime-dungeon 可参考
 
 ---
 
 ## 数据说明
 
-- **数据源**：GitHub Search API，6 组搜索策略合并去重
-- **搜索策略**：`agent skill` in:description / `skill` + `claude code` / `skill` in:name + agent / `topic:claude-code` + `topic:skill` / `skill` + `cursor` / `skill` + `codex`
-- **排序依据**：总星标数（截至 2026-07-05）
-- **去重后项目总数**：120 个，本表展示 Top 30
-- **+周增**：本周新增星标数（本期为首期，无历史快照；从 W28 起通过 skills_history.csv 快照差值计算）
-- **category/purpose/principle** 为 AI 辅助分析，仅供参考
+- **主排名依据**：skills.sh All Time 安装量（`npx skills add` 统计）
+- **辅助维度**：GitHub 星标数（通过 GitHub API 获取，部分非 GitHub 项目标注 —）
+- **三个榜单**：All Time（总安装）/ Trending（24h 安装）/ Hot（热度算法含增长）
+- **skills.sh 总收录**：57000+ skills，本表展示安装量 Top 30
+- **+周增**：下期起通过 skills_sh_history.csv 快照差值计算
+- **category/purpose** 为 AI 辅助分析，仅供参考
