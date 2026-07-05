@@ -1,31 +1,31 @@
-rank,repo,stars,forks,language,category,purpose,principle,url,created_at,pushed_at
-1,obra/superpowers,246455,21860,Shell,Agent 技能框架,智能体技能框架与软件开发方法论,将开发方法论编码为可安装技能体系，Agent 按技能规范执行开发流程,https://github.com/obra/superpowers,2025-10-09,2026-07-02
-2,affaan-m/ECC,226142,34595,JavaScript,Agent 性能优化,Agent 性能优化系统：技能/本能/记忆/安全四维,四维体系扩展 Agent 工程能力，零配置兼容 Claude Code/Codex/Cursor,https://github.com/affaan-m/ECC,2026-01-18,2026-07-04
-3,anthropics/skills,158298,18662,Python,Agent 技能（官方）,Anthropic 官方 Agent Skills 仓库,官方维护的技能模板库，定义技能规范与最佳实践,https://github.com/anthropics/skills,2025-09-22,2026-07-01
-4,JuliusBrussee/caveman,84294,4704,JavaScript,LLM Token 压缩,Claude Code 技能：用最少 token 完成任务,堆叠压缩策略减少 15-95% token 消耗，适配 Claude Code,https://github.com/JuliusBrussee/caveman,2026-04-04,2026-07-03
-5,Graphify-Labs/graphify,77799,7696,Python,代码知识图谱,将代码/SQL/文档转为可查询知识图谱的 Agent 技能,多源素材构建统一知识图谱，Claude Code/Codex/Cursor 可查询,https://github.com/Graphify-Labs/graphify,2026-04-03,2026-07-04
-6,addyosmani/agent-skills,69015,7498,Shell,Agent 工程技能,面向 AI 编码 Agent 的生产级工程技能集合,沉淀工程实践为可安装技能库，覆盖代码审查/测试/文档等场景,https://github.com/addyosmani/agent-skills,2026-02-15,2026-07-04
-7,ComposioHQ/awesome-claude-skills,66840,7457,Python,技能索引（Awesome）,Claude Skills 精选列表与资源合集,策展式收集 Claude Skills 资源，分类整理供开发者发现,https://github.com/ComposioHQ/awesome-claude-skills,2025-10-17,2026-05-22
-8,santifer/career-ops,58597,11495,JavaScript,求职 Agent 技能,AI 驱动的求职系统，14 个技能模块,基于 Claude Code 构建 14 个求职技能模块，端到端自动化,https://github.com/santifer/career-ops,2026-04-04,2026-07-05
-9,Leonxlnx/taste-skill,56755,3884,JavaScript,Agent 审美技能,赋予 AI Agent 审美品味，拦截平庸生成内容,注入设计原则与审美规则，拦截 AI 通用平庸输出,https://github.com/Leonxlnx/taste-skill,2026-02-19,2026-07-04
-10,mvanhorn/last30days-skill,49000,4057,Python,Agent 研究技能,跨 Reddit/X/YouTube/HN/Polymarket 研究任意话题,Agent 技能跨多平台聚合信息生成有据可查的摘要报告,https://github.com/mvanhorn/last30days-skill,2026-01-23,2026-07-05
-11,hesreallyhim/awesome-claude-code,48086,4221,Python,资源索引（Awesome）,Claude Code 精选资源合集,手选 Claude Code 最佳资源、技能、插件索引,https://github.com/hesreallyhim/awesome-claude-code,2025-04-19,2026-07-05
-12,zhayujie/CowAgent,45793,10250,Python,Agent 框架,开源超级 AI 助手与 Agent Harness,规划→执行→验证的 Agent 框架，支持技能扩展与多模型,https://github.com/zhayujie/CowAgent,2022-08-07,2026-07-05
-13,sickn33/antigravity-awesome-skills,42359,6758,Python,技能库（大规模）,1800+ 可安装的智能体技能库,大规模策展技能集合，一键安装到 Claude Code/Codex 等,https://github.com/sickn33/antigravity-awesome-skills,2026-01-14,2026-07-05
-14,danny-avila/LibreChat,40296,8257,TypeScript,AI 对话平台,增强版 ChatGPT 克隆，支持 Agent/MCP/Skills,TypeScript 全栈对话平台，集成 Agent/MCP/技能/数据源,https://github.com/danny-avila/LibreChat,2023-02-12,2026-07-05
-15,kepano/obsidian-skills,39777,2825,未指定,Obsidian Agent 技能,教 Agent 使用 Obsidian 的技能,Agent 技能封装 Obsidian API，让 AI 读写笔记/搜索/管理 vault,https://github.com/kepano/obsidian-skills,2026-01-02,2026-06-08
-16,multica-ai/multica,39064,4894,Go,Agent 管理平台,开源托管 Agent 平台，将编码 Agent 转为托管服务,Go 实现的 Agent 管理平台，支持多 Agent 编排与托管,https://github.com/multica-ai/multica,2026-01-13,2026-07-05
-17,Imbad0202/academic-research-skills,36293,2971,Python,学术研究技能,Claude Code 学术研究技能：研究→写作→引用,Python 实现学术研究全流程技能，自动文献检索与引用,https://github.com/Imbad0202/academic-research-skills,2026-02-26,2026-07-04
-18,github/awesome-copilot,36182,4498,Python,资源索引（官方）,GitHub 官方 Copilot 社区贡献合集,官方维护的 Copilot 指令/Agent/技能/提示词合集,https://github.com/github/awesome-copilot,2025-06-11,2026-07-04
-19,coreyhaines31/marketingskills,36141,5883,JavaScript,营销 Agent 技能,Claude Code 与 AI Agent 的营销技能,CRO/文案/增长等营销技能模块，可安装到编码 Agent,https://github.com/coreyhaines31/marketingskills,2026-01-15,2026-07-03
-20,calesthio/OpenMontage,33293,3826,Python,AI 视频制作,开源智能体视频制作系统，12 流水线/52 工具,视频制作拆解为多阶段 Agent 流水线，500+ 技能调度,https://github.com/calesthio/OpenMontage,2026-03-29,2026-07-04
-21,K-Dense-AI/scientific-agent-skills,30191,3048,Python,科研 Agent 技能,将 AI Agent 变成 AI 科学家的技能,#1 Agent 科研技能，覆盖实验设计/数据分析/论文写作,https://github.com/K-Dense-AI/scientific-agent-skills,2025-10-19,2026-07-04
-22,googleworkspace/cli,29400,1685,Rust,Google Workspace CLI,Google Workspace 命令行工具，Agent 可调用,Rust 实现的 CLI，Agent 通过命令操作 Drive/Calendar/Gmail,https://github.com/googleworkspace/cli,2026-03-02,2026-07-01
-23,vercel-labs/agent-skills,28680,2574,JavaScript,Agent 技能（官方）,Vercel 官方 Agent 技能合集,Vercel 维护的官方技能集合，npx 一键安装,https://github.com/vercel-labs/agent-skills,2025-12-08,2026-06-10
-24,blader/humanizer,27521,2554,未指定,AI 去味技能,Claude Code 技能：消除 AI 生成痕迹,检测并移除 AI 写作特征，让文本回归自然人类语感,https://github.com/blader/humanizer,2026-01-18,2026-06-29
-25,VoltAgent/awesome-agent-skills,27334,2927,未指定,技能索引（Awesome）,1000+ Agent 技能策展合集,从官方与社区收集 1000+ 技能，分类索引供发现,https://github.com/VoltAgent/awesome-agent-skills,2025-10-28,2026-06-30
-26,volcengine/OpenViking,26325,2046,Python,Agent 上下文管理,AI Agent 自进化上下文数据库,统一 Agent 技能/记忆/工具的上下文管理，持续进化,https://github.com/volcengine/OpenViking,2026-01-05,2026-07-05
-27,vercel-labs/skills,25060,2086,TypeScript,Agent 技能工具,开源 Agent 技能工具：npx skills,TypeScript 实现的技能管理 CLI，安装/更新/发现技能,https://github.com/vercel-labs/skills,2026-01-14,2026-06-29
-28,zarazhangrui/frontend-slides,24558,2003,JavaScript,前端演示技能,用编码 Agent 创建精美网页幻灯片,Agent 技能生成 HTML 幻灯片，编码 Agent 直接渲染,https://github.com/zarazhangrui/frontend-slides,2026-01-28,2026-06-23
-29,OthmanAdi/planning-with-files,24520,2104,Python,Agent 规划技能,AI 编码 Agent 的持久化文件规划,基于文件的持久化任务规划，Agent 跨会话延续上下文,https://github.com/OthmanAdi/planning-with-files,2026-01-03,2026-07-03
-30,mukul975/Anthropic-Cybersecurity-Skills,24466,2788,Python,Agent 安全技能,817 个结构化网安技能，映射 6 大框架,按 MITRE ATT&CK 等框架组织安全技能，可插拔到 20+ 平台,https://github.com/mukul975/Anthropic-Cybersecurity-Skills,2026-02-25,2026-06-26
+rank,repo,stars,weekly_stars,forks,language,category,purpose,principle,url,created_at,pushed_at
+1,obra/superpowers,246455,—,21860,Shell,Agent 技能框架,智能体技能框架与软件开发方法论,将开发方法论编码为可安装技能体系，Agent 按技能规范执行开发流程,https://github.com/obra/superpowers,2025-10-09,2026-07-02
+2,affaan-m/ECC,226142,—,34595,JavaScript,Agent 性能优化,Agent 性能优化系统：技能/本能/记忆/安全四维,四维体系扩展 Agent 工程能力，零配置兼容 Claude Code/Codex/Cursor,https://github.com/affaan-m/ECC,2026-01-18,2026-07-04
+3,anthropics/skills,158298,—,18662,Python,Agent 技能（官方）,Anthropic 官方 Agent Skills 仓库,官方维护的技能模板库，定义技能规范与最佳实践,https://github.com/anthropics/skills,2025-09-22,2026-07-01
+4,JuliusBrussee/caveman,84294,—,4704,JavaScript,LLM Token 压缩,Claude Code 技能：用最少 token 完成任务,堆叠压缩策略减少 15-95% token 消耗，适配 Claude Code,https://github.com/JuliusBrussee/caveman,2026-04-04,2026-07-03
+5,Graphify-Labs/graphify,77799,—,7696,Python,代码知识图谱,将代码/SQL/文档转为可查询知识图谱的 Agent 技能,多源素材构建统一知识图谱，Claude Code/Codex/Cursor 可查询,https://github.com/Graphify-Labs/graphify,2026-04-03,2026-07-04
+6,addyosmani/agent-skills,69015,—,7498,Shell,Agent 工程技能,面向 AI 编码 Agent 的生产级工程技能集合,沉淀工程实践为可安装技能库，覆盖代码审查/测试/文档等场景,https://github.com/addyosmani/agent-skills,2026-02-15,2026-07-04
+7,ComposioHQ/awesome-claude-skills,66840,—,7457,Python,技能索引（Awesome）,Claude Skills 精选列表与资源合集,策展式收集 Claude Skills 资源，分类整理供开发者发现,https://github.com/ComposioHQ/awesome-claude-skills,2025-10-17,2026-05-22
+8,santifer/career-ops,58597,—,11495,JavaScript,求职 Agent 技能,AI 驱动的求职系统，14 个技能模块,基于 Claude Code 构建 14 个求职技能模块，端到端自动化,https://github.com/santifer/career-ops,2026-04-04,2026-07-05
+9,Leonxlnx/taste-skill,56755,—,3884,JavaScript,Agent 审美技能,赋予 AI Agent 审美品味，拦截平庸生成内容,注入设计原则与审美规则，拦截 AI 通用平庸输出,https://github.com/Leonxlnx/taste-skill,2026-02-19,2026-07-04
+10,mvanhorn/last30days-skill,49000,—,4057,Python,Agent 研究技能,跨 Reddit/X/YouTube/HN/Polymarket 研究任意话题,Agent 技能跨多平台聚合信息生成有据可查的摘要报告,https://github.com/mvanhorn/last30days-skill,2026-01-23,2026-07-05
+11,hesreallyhim/awesome-claude-code,48086,—,4221,Python,资源索引（Awesome）,Claude Code 精选资源合集,手选 Claude Code 最佳资源、技能、插件索引,https://github.com/hesreallyhim/awesome-claude-code,2025-04-19,2026-07-05
+12,zhayujie/CowAgent,45793,—,10250,Python,Agent 框架,开源超级 AI 助手与 Agent Harness,规划→执行→验证的 Agent 框架，支持技能扩展与多模型,https://github.com/zhayujie/CowAgent,2022-08-07,2026-07-05
+13,sickn33/antigravity-awesome-skills,42359,—,6758,Python,技能库（大规模）,1800+ 可安装的智能体技能库,大规模策展技能集合，一键安装到 Claude Code/Codex 等,https://github.com/sickn33/antigravity-awesome-skills,2026-01-14,2026-07-05
+14,danny-avila/LibreChat,40296,—,8257,TypeScript,AI 对话平台,增强版 ChatGPT 克隆，支持 Agent/MCP/Skills,TypeScript 全栈对话平台，集成 Agent/MCP/技能/数据源,https://github.com/danny-avila/LibreChat,2023-02-12,2026-07-05
+15,kepano/obsidian-skills,39777,—,2825,未指定,Obsidian Agent 技能,教 Agent 使用 Obsidian 的技能,Agent 技能封装 Obsidian API，让 AI 读写笔记/搜索/管理 vault,https://github.com/kepano/obsidian-skills,2026-01-02,2026-06-08
+16,multica-ai/multica,39064,—,4894,Go,Agent 管理平台,开源托管 Agent 平台，将编码 Agent 转为托管服务,Go 实现的 Agent 管理平台，支持多 Agent 编排与托管,https://github.com/multica-ai/multica,2026-01-13,2026-07-05
+17,Imbad0202/academic-research-skills,36293,—,2971,Python,学术研究技能,Claude Code 学术研究技能：研究→写作→引用,Python 实现学术研究全流程技能，自动文献检索与引用,https://github.com/Imbad0202/academic-research-skills,2026-02-26,2026-07-04
+18,github/awesome-copilot,36182,—,4498,Python,资源索引（官方）,GitHub 官方 Copilot 社区贡献合集,官方维护的 Copilot 指令/Agent/技能/提示词合集,https://github.com/github/awesome-copilot,2025-06-11,2026-07-04
+19,coreyhaines31/marketingskills,36141,—,5883,JavaScript,营销 Agent 技能,Claude Code 与 AI Agent 的营销技能,CRO/文案/增长等营销技能模块，可安装到编码 Agent,https://github.com/coreyhaines31/marketingskills,2026-01-15,2026-07-03
+20,calesthio/OpenMontage,33293,—,3826,Python,AI 视频制作,开源智能体视频制作系统，12 流水线/52 工具,视频制作拆解为多阶段 Agent 流水线，500+ 技能调度,https://github.com/calesthio/OpenMontage,2026-03-29,2026-07-04
+21,K-Dense-AI/scientific-agent-skills,30191,—,3048,Python,科研 Agent 技能,将 AI Agent 变成 AI 科学家的技能,#1 Agent 科研技能，覆盖实验设计/数据分析/论文写作,https://github.com/K-Dense-AI/scientific-agent-skills,2025-10-19,2026-07-04
+22,googleworkspace/cli,29400,—,1685,Rust,Google Workspace CLI,Google Workspace 命令行工具，Agent 可调用,Rust 实现的 CLI，Agent 通过命令操作 Drive/Calendar/Gmail,https://github.com/googleworkspace/cli,2026-03-02,2026-07-01
+23,vercel-labs/agent-skills,28680,—,2574,JavaScript,Agent 技能（官方）,Vercel 官方 Agent 技能合集,Vercel 维护的官方技能集合，npx 一键安装,https://github.com/vercel-labs/agent-skills,2025-12-08,2026-06-10
+24,blader/humanizer,27521,—,2554,未指定,AI 去味技能,Claude Code 技能：消除 AI 生成痕迹,检测并移除 AI 写作特征，让文本回归自然人类语感,https://github.com/blader/humanizer,2026-01-18,2026-06-29
+25,VoltAgent/awesome-agent-skills,27334,—,2927,未指定,技能索引（Awesome）,1000+ Agent 技能策展合集,从官方与社区收集 1000+ 技能，分类索引供发现,https://github.com/VoltAgent/awesome-agent-skills,2025-10-28,2026-06-30
+26,volcengine/OpenViking,26325,—,2046,Python,Agent 上下文管理,AI Agent 自进化上下文数据库,统一 Agent 技能/记忆/工具的上下文管理，持续进化,https://github.com/volcengine/OpenViking,2026-01-05,2026-07-05
+27,vercel-labs/skills,25060,—,2086,TypeScript,Agent 技能工具,开源 Agent 技能工具：npx skills,TypeScript 实现的技能管理 CLI，安装/更新/发现技能,https://github.com/vercel-labs/skills,2026-01-14,2026-06-29
+28,zarazhangrui/frontend-slides,24558,—,2003,JavaScript,前端演示技能,用编码 Agent 创建精美网页幻灯片,Agent 技能生成 HTML 幻灯片，编码 Agent 直接渲染,https://github.com/zarazhangrui/frontend-slides,2026-01-28,2026-06-23
+29,OthmanAdi/planning-with-files,24520,—,2104,Python,Agent 规划技能,AI 编码 Agent 的持久化文件规划,基于文件的持久化任务规划，Agent 跨会话延续上下文,https://github.com/OthmanAdi/planning-with-files,2026-01-03,2026-07-03
+30,mukul975/Anthropic-Cybersecurity-Skills,24466,—,2788,Python,Agent 安全技能,817 个结构化网安技能，映射 6 大框架,按 MITRE ATT&CK 等框架组织安全技能，可插拔到 20+ 平台,https://github.com/mukul975/Anthropic-Cybersecurity-Skills,2026-02-25,2026-06-26
