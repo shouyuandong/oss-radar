@@ -97,3 +97,23 @@ week,rank,repo,language,weekly_stars,total_stars,category,purpose,principle
 2026-W27,18,openai/codex-plugin-cc,JavaScript,1296,24341,Codex 插件,在 Claude Code 中使用 Codex 审查代码或委派任务,JavaScript 桥接 Codex 到 Claude Code，跨 Agent 协作
 2026-W27,19,allenai/olmocr,Python,1216,18696,PDF 处理,为 LLM 数据集/训练线性化 PDF 的工具包,Python 实现 PDF 文档线性化，适配 LLM 训练数据格式
 2026-W27,20,Starmel/OpenSuperWhisper,Swift,494,1707,语音听写,macOS 听写应用,Swift 实现 macOS 原生语音听写
+2026-W28,1,JuliusBrussee/caveman,JavaScript,3992,88541,Agent Token 压缩,Claude Code 技能，用'穴居人'简语砍掉 65% token,将冗长提示词翻译为极简穴居人语言，大幅削减 token 消耗
+2026-W28,2,ruvnet/RuView,Rust,3763,80255,WiFi 空间感知,利用 WiFi 信号实现实时空间感知与体征监测,分析商用 WiFi CSI 信号提取空间信息与生命体征，无需摄像头
+2026-W28,3,ChromeDevTools/chrome-devtools-mcp,TypeScript,872,46768,浏览器 DevTools / MCP,为编码 Agent 提供 Chrome DevTools 能力,MCP Server 暴露 Chrome DevTools Protocol，Agent 可实时调试网页
+2026-W28,4,pbakaus/impeccable,JavaScript,2272,45976,AI 设计语言,定义设计规则让 AI 生成界面具备专业审美,设计原则体系作为 Agent 技能安装，实时审美评估拦截平庸输出
+2026-W28,5,usestrix/strix,Python,4143,40856,AI 安全测试,开源 AI 渗透测试工具，自动发现并修复漏洞,大模型安全分析+传统渗透工具链，Agent 自主规划攻击路径
+2026-W28,6,asgeirtj/system_prompts_leaks,JavaScript,7155,56730,提示词泄露,收录 Claude/ChatGPT/Gemini/Grok 等系统提示词,持续收集整理各 AI 产品系统提示词并公开，含 Claude Fable 5、GPT-5.6 等
+2026-W28,7,alibaba/page-agent,TypeScript,2666,26219,网页 GUI Agent,JavaScript 网页内 GUI Agent，自然语言控制界面,TypeScript 注入网页的 GUI Agent，解析 DOM 执行自然语言指令
+2026-W28,8,alirezarezvani/claude-skills,Python,1993,22379,Agent 技能集合,345 个 Claude Code 技能与插件，覆盖工程/营销/合规等,策展式组织多领域技能为可安装 Agent 插件集合
+2026-W28,9,vxcontrol/pentagi,Go,1989,20166,AI 自动渗透,全自动 AI Agent 渗透测试系统,Go 实现全自主 Agent 渗透测试框架，复杂任务自动分解执行
+2026-W28,10,abseil/abseil-cpp,C++,600,17944,C++ 基础库,Google Abseil C++ 公共基础库,C++ 实现高性能基础库，涵盖字符串/容器/并发/时间等核心模块
+2026-W28,11,stablyai/orca,TypeScript,4481,16983,Agent 并行调度,并行 Agent 舰队管理 ADE，桌面+移动端,TypeScript 实现多 Agent 并行调度管理，跨桌面移动端
+2026-W28,12,diegosouzapw/OmniRoute,TypeScript,4506,16226,AI 网关,免费 AI 网关，231+ 供应商，连接主流编程 Agent,TypeScript 统一端点聚合 231+ AI 供应商，智能故障转移+token 压缩
+2026-W28,13,ogulcancelik/herdr,Rust,3928,15790,Agent 多路复用,终端 Agent 多路复用器,Rust 实现终端多 Agent 并发调度
+2026-W28,14,iOfficeAI/OfficeCLI,C#,6978,15423,Office Agent 工具,为 AI Agent 设计的 Office 套件 CLI,C# 实现单一二进制文件读写编辑 Word/Excel/PPT，无需安装 Office
+2026-W28,15,Zackriya-Solutions/meetily,Rust,7440,23583,AI 会议助手,隐私优先的 AI 会议助手，本地转录+摘要,Rust 实现 Whisper/Parakeet 本地转录+Ollama 摘要，100% 本地处理
+2026-W28,16,openai/codex-plugin-cc,JavaScript,2803,28058,Codex 插件,在 Claude Code 中使用 Codex 审查代码或委派任务,JavaScript 桥接 Codex 到 Claude Code，跨 Agent 协作
+2026-W28,17,TencentCloud/CubeSandbox,Rust,2490,9803,Agent 沙箱,即时并发安全轻量沙箱，专为 AI Agent 设计,Rust 实现轻量沙箱隔离 Agent 执行环境，并发安全
+2026-W28,18,facebook/astryx,TypeScript,2397,8183,设计系统,开源可定制且 Agent Ready 的设计系统,TypeScript 实现全可定制设计系统，Agent 可直接使用组件与样式
+2026-W28,19,wonderwhy-er/DesktopCommanderMCP,TypeScript,1678,7988,终端 MCP Server,MCP Server 提供终端控制、文件搜索与差异编辑,TypeScript MCP Server 暴露终端操作、文件搜索与差异编辑能力
+2026-W28,20,bradautomates/claude-video,Python,4353,7833,视频理解 Agent,赋予 Claude 观看视频能力,Python 下载视频→提取帧→转录→全部交给 Claude 分析

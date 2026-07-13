@@ -515,3 +515,87 @@ week,board,rank,skill,owner_repo,installs,captured_at
 2026-W27,hot,353,higgsfield-marketplace-cards,higgsfield-ai/skills,-29,2026-07-05T09:14:36.826932+00:00
 2026-W27,hot,354,animation-vocabulary,emilkowalski/skills,-30,2026-07-05T09:14:36.826932+00:00
 2026-W27,hot,355,ai-sdk,vercel/ai,-4,2026-07-05T09:14:36.826932+00:00
+2026-W28,1,find-skills,vercel-labs/skills,2500000,2.5M,25938,200000,—,技能发现工具,技能发现与安装入口工具,https://www.skills.sh/vercel-labs/skills/find-skills,,6,1
+2026-W28,2,frontend-design,anthropics/skills,655900,655.9K,160580,30400,—,前端设计技能（官方）,Anthropic 官方前端设计技能,https://www.skills.sh/anthropics/skills/frontend-design,,48,121
+2026-W28,3,vercel-react-best-practices,vercel-labs/agent-skills,546100,546.1K,28985,20400,—,React 最佳实践（官方）,Vercel 官方 React 最佳实践技能,https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices,,,
+2026-W28,4,agent-browser,vercel-labs/agent-browser,537200,537.2K,38333,25500,—,浏览器 Agent 技能,让 Agent 控制浏览器的技能,https://www.skills.sh/vercel-labs/agent-browser/agent-browser,,95,77
+2026-W28,5,grill-me,mattpocock/skills,529000,529.0K,166831,74300,—,代码审查技能,让 AI 严格审查你的代码,https://www.skills.sh/mattpocock/skills/grill-me,,13,13
+2026-W28,6,web-design-guidelines,vercel-labs/agent-skills,458400,458.4K,28985,20100,—,Web 设计规范技能,Web 设计规范与指南,https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines,,109,
+2026-W28,7,microsoft-foundry,microsoft/azure-skills,448400,448.4K,1273,16800,—,Azure AI 技能（官方）,Microsoft Azure AI Foundry 技能,https://www.skills.sh/microsoft/azure-skills/microsoft-foundry,,,
+2026-W28,8,grill-with-docs,mattpocock/skills,444500,444.5K,166831,68600,↓2,文档审查技能,结合文档严格审查代码,https://www.skills.sh/mattpocock/skills/grill-with-docs,,,
+2026-W28,9,azure-storage,microsoft/azure-skills,444200,444.2K,1273,444200,🆕,Azure 存储（官方）,Azure 存储服务技能,https://www.skills.sh/microsoft/azure-skills/azure-storage,,,
+2026-W28,10,improve-codebase-architecture,mattpocock/skills,437000,437.0K,166831,63700,↓12,架构优化技能,分析并改进代码库架构,https://www.skills.sh/mattpocock/skills/improve-codebase-architecture,,,
+2026-W28,11,azure-messaging,microsoft/azure-skills,433200,433.2K,1273,433200,🆕,Azure 消息（官方）,Azure 消息服务技能,https://www.skills.sh/microsoft/azure-skills/azure-messaging,,,
+2026-W28,12,remotion-best-practices,remotion-dev/skills,422200,422.2K,3929,13700,↓17,视频编程技能,Remotion 视频编程最佳实践,https://www.skills.sh/remotion-dev/skills/remotion-best-practices,,,
+2026-W28,13,tdd,mattpocock/skills,419200,419.2K,166831,64100,↓12,TDD 技能,测试驱动开发技能,https://www.skills.sh/mattpocock/skills/tdd,,,
+2026-W28,14,azure-hosted-copilot-sdk,microsoft/azure-skills,413600,413.6K,1273,13500,↓18,Azure Copilot SDK（官方）,Azure 托管 Copilot SDK 技能,https://www.skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk,,,
+2026-W28,15,lark-approval,open.feishu.cn,391200,391.2K,—,391200,🆕,飞书审批技能,飞书审批流程技能,https://www.skills.sh/site/open.feishu.cn/lark-approval,,,
+2026-W28,16,azure-compute,microsoft/azure-skills,387200,387.2K,1273,16400,↓38,Azure 计算（官方）,Azure 计算服务开发技能,https://www.skills.sh/microsoft/azure-skills/azure-compute,,,
+2026-W28,17,azure-cloud-migrate,microsoft/azure-skills,377100,377.1K,1273,16300,↓38,Azure 迁移（官方）,Azure 云迁移技能,https://www.skills.sh/microsoft/azure-skills/azure-cloud-migrate,,,
+2026-W28,18,setup-matt-pocock-skills,mattpocock/skills,374900,374.9K,166831,374900,🆕,技能安装器,一键安装 Matt Pocock 全套技能,https://www.skills.sh/mattpocock/skills/setup-matt-pocock-skills,,,
+2026-W28,19,lark-okr,open.feishu.cn,371300,371.3K,—,371300,🆕,飞书 OKR 技能,飞书 OKR 管理技能,https://www.skills.sh/site/open.feishu.cn/lark-okr,,,
+2026-W28,20,lark-markdown,open.feishu.cn,356200,356.2K,—,356200,🆕,飞书 Markdown 技能,飞书 Markdown 文档技能,https://www.skills.sh/site/open.feishu.cn/lark-markdown,,,
+2026-W28,21,to-prd,mattpocock/skills,356100,356.1K,166831,22900,↓30,产品需求技能,生成产品需求文档,https://www.skills.sh/mattpocock/skills/to-prd,,,
+2026-W28,22,triage,mattpocock/skills,349300,349.3K,166831,349300,🆕,问题分流技能,自动分流和分类问题,https://www.skills.sh/mattpocock/skills/triage,,,
+2026-W28,23,lark-doc,larksuite/cli,344800,344.8K,15508,344800,🆕,飞书文档技能,飞书文档操作技能,https://www.skills.sh/larksuite/cli/lark-doc,,,
+2026-W28,24,to-issues,mattpocock/skills,343500,343.5K,166831,23400,↓31,Issue 技能,生成 GitHub Issue,https://www.skills.sh/mattpocock/skills/to-issues,,,
+2026-W28,25,lark-base,larksuite/cli,343400,343.4K,15508,343400,🆕,飞书多维表格技能,飞书多维表格操作技能,https://www.skills.sh/larksuite/cli/lark-base,,,
+2026-W28,26,lark-im,larksuite/cli,343000,343.0K,15508,343000,🆕,飞书即时消息技能,飞书即时消息技能,https://www.skills.sh/larksuite/cli/lark-im,,,
+2026-W28,27,lark-drive,larksuite/cli,342700,342.7K,15508,342700,🆕,飞书云盘技能,飞书云盘操作技能,https://www.skills.sh/larksuite/cli/lark-drive,,,
+2026-W28,28,caveman,juliusbrussee/caveman,342600,342.6K,88547,26600,↓34,Token 压缩技能,穴居人语言压缩 65% token,https://www.skills.sh/juliusbrussee/caveman/caveman,,,95
+2026-W28,29,lark-shared,larksuite/cli,342600,342.6K,15508,342600,🆕,飞书共享技能,飞书共享协作技能,https://www.skills.sh/larksuite/cli/lark-shared,,,
+2026-W28,30,handoff,mattpocock/skills,338200,338.2K,166831,338200,🆕,代码交接技能,生成代码交接文档,https://www.skills.sh/mattpocock/skills/handoff,,,
+2026-W28,all_time,1,find-skills,vercel-labs/skills,2500000,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,2,frontend-design,anthropics/skills,655900,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,3,vercel-react-best-practices,vercel-labs/agent-skills,546100,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,4,agent-browser,vercel-labs/agent-browser,537200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,5,grill-me,mattpocock/skills,529000,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,6,web-design-guidelines,vercel-labs/agent-skills,458400,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,7,microsoft-foundry,microsoft/azure-skills,448400,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,12,grill-with-docs,mattpocock/skills,444500,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,13,azure-storage,microsoft/azure-skills,444200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,23,improve-codebase-architecture,mattpocock/skills,437000,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,24,azure-messaging,microsoft/azure-skills,433200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,25,remotion-best-practices,remotion-dev/skills,422200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,26,tdd,mattpocock/skills,419200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,27,azure-hosted-copilot-sdk,microsoft/azure-skills,413600,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,28,lark-approval,open.feishu.cn,391200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,50,azure-compute,microsoft/azure-skills,387200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,51,azure-cloud-migrate,microsoft/azure-skills,377100,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,52,setup-matt-pocock-skills,mattpocock/skills,374900,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,53,lark-okr,open.feishu.cn,371300,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,54,lark-markdown,open.feishu.cn,356200,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,55,to-prd,mattpocock/skills,356100,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,56,triage,mattpocock/skills,349300,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,57,lark-doc,larksuite/cli,344800,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,58,to-issues,mattpocock/skills,343500,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,59,lark-base,larksuite/cli,343400,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,60,lark-im,larksuite/cli,343000,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,61,lark-drive,larksuite/cli,342700,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,62,caveman,juliusbrussee/caveman,342600,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,63,lark-shared,larksuite/cli,342600,2026-07-13T01:16:49.972392+00:00
+2026-W28,all_time,78,handoff,mattpocock/skills,338200,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,1,ai-video-generation,101-skills/skills,22000,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,6,find-skills,vercel-labs/skills,13400,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,7,design-guide,getpaperclipai/paperclip,10300,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,13,grill-me,mattpocock/skills,7300,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,34,media-use,heygen-com/hyperframes,4300,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,35,agent-browser,101-skills/skills,4200,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,36,ai-research-explore,lllllllama/rigorpilot-skills,4200,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,47,hyperframes-cli,heygen-com/hyperframes,4000,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,48,frontend-design,anthropics/skills,3800,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,49,hyperframes,heygen-com/hyperframes,3800,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,55,design-taste-frontend,leonxlnx/taste-skill,3000,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,56,web-search,101-skills/skills,2900,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,60,design-an-interface,mattpocock/skills,2800,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,61,resolving-merge-conflicts,mattpocock/skills,2700,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,94,emil-design-eng,emilkowalski/skills,2600,2026-07-13T01:16:49.972392+00:00
+2026-W28,trending_24h,95,agent-browser,vercel-labs/agent-browser,2600,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,1,find-skills,vercel-labs/skills,-368,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,2,ai-video-generation,101-skills/skills,-303,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,7,paperclip-create-agent,getpaperclipai/paperclip,-377,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,13,grill-me,mattpocock/skills,-211,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,77,agent-browser,vercel-labs/agent-browser,-82,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,92,orca-cli,stablyai/orca,-17,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,94,playwright-cli,microsoft/playwright-cli,-26,2026-07-13T01:16:49.972392+00:00
+2026-W28,hot,95,caveman,juliusbrussee/caveman,-52,2026-07-13T01:16:49.972392+00:00
