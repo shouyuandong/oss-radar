@@ -52,7 +52,7 @@ def parse_installs(text):
 def fetch_page(url):
     for attempt in range(3):
         try:
-            r = requests.get(url, headers=HEADERS, timeout=30)
+            r = requests.get(url, headers=HEADERS, timeout=30, verify=False)
             if r.status_code == 200:
                 return r.text
             elif r.status_code == 429:

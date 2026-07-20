@@ -1,0 +1,15 @@
+week,rank,repo,language,weekly_stars,total_stars,category,purpose,principle
+2026-W30,1,Nutlope/hallmark,CSS,9193,13376,Agent 技能 / 设计,反 AI 味设计技能，为编码 Agent 注入专业审美,设计规则体系作为 Agent 技能，拦截 AI 平庸输出
+2026-W30,2,OpenCut-app/OpenCut,TypeScript,12743,75872,短视频编辑,开源剪映替代品,TypeScript 实现全流程短视频编辑，开源替代 CapCut
+2026-W30,3,Shubhamsaboo/awesome-llm-apps,Python,6211,124547,LLM 应用合集,100+ 可运行的 AI Agent 和 RAG 应用合集,策展式组织 LLM 应用，克隆即可运行+定制+部署
+2026-W30,4,HKUDS/Vibe-Trading,Python,5228,25293,AI 投资 Agent,个人交易 Agent,Agent 自主规划交易策略并执行
+2026-W30,5,HKUDS/DeepTutor,Python,2375,27929,AI 教育 Agent,终身个性化辅导 Agent,自适应学习路径+实时反馈，持续个性化教学
+2026-W30,6,mattpocock/skills,Shell,10983,177501,Agent 技能,面向工程师的生产级 Agent 技能库,从 .agents 目录提取实战技能，安装到 Claude Code/Cursor/Codex
+2026-W30,7,kangarooking/cangjie-skill,Python,1284,3829,知识蒸馏技能,把书/长视频/播客蒸馏成可执行 Agent Skills,高价值内容自动提炼为结构化 Agent 技能
+2026-W30,8,iOfficeAI/OfficeCLI,C#,4269,19662,Office Agent 工具,为 AI Agent 设计的 Office 套件 CLI,C# 单一二进制读写编辑 Word/Excel/PPT，无需安装 Office
+2026-W30,9,ibelick/ui-skills,TypeScript,1669,5427,Agent 技能 / 设计,面向设计工程师的 Agent 技能,为设计工程师提供 UI 设计最佳实践技能
+2026-W30,10,openai/codex,Rust,2361,99693,终端编码 Agent,OpenAI 轻量终端编码 Agent,Rust 实现终端内轻量编码 Agent，沙箱执行
+2026-W30,11,openinterpreter/openinterpreter,Rust,2498,66833,终端编码 Agent,面向开源模型的编码 Agent（支持 Kimi K3）,Rust 实现支持开源模型的终端编码 Agent
+2026-W30,12,tirth8205/code-review-graph,Python,1103,21205,代码智能 / MCP,本地优先代码知识图谱，为 MCP 和 CLI 构建,Python 构建代码库持久知识图谱，MCP 暴露查询，上下文缩减
+2026-W30,13,earendil-works/pi,TypeScript,2854,72773,Agent 工具包,统一 LLM API+Agent 循环+TUI+编码 Agent CLI,TypeScript 实现一站式 Agent 工具包，统一 API+循环+TUI
+2026-W30,14,anthropics/cwc-workshops,TypeScript,317,1764,Agent 技能 / 官方,Anthropic 官方 Claude Workshop 技能,Anthropic 出品的 Agent 编码 workshop 技能
