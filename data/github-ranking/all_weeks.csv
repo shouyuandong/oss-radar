@@ -131,3 +131,42 @@ week,rank,repo,language,weekly_stars,total_stars,category,purpose,principle
 2026-W30,12,tirth8205/code-review-graph,Python,1103,21205,代码智能 / MCP,本地优先代码知识图谱，为 MCP 和 CLI 构建,Python 构建代码库持久知识图谱，MCP 暴露查询，上下文缩减
 2026-W30,13,earendil-works/pi,TypeScript,2854,72773,Agent 工具包,统一 LLM API+Agent 循环+TUI+编码 Agent CLI,TypeScript 实现一站式 Agent 工具包，统一 API+循环+TUI
 2026-W30,14,anthropics/cwc-workshops,TypeScript,317,1764,Agent 技能 / 官方,Anthropic 官方 Claude Workshop 技能,Anthropic 出品的 Agent 编码 workshop 技能
+2026-W31,1,bojieli/ai-agent-book,Python,15909,20828,AI Agent 教程,《深入理解 AI Agent》开源主仓库：全书正文+PDF+按章配套代码,系统性讲解 AI Agent 设计原理与工程实践，开源全文+代码配套
+2026-W31,2,koala73/worldmonitor,TypeScript,12615,74760,AI 情报监控,实时全球情报仪表盘，AI 驱动新闻聚合+地缘政治监控,TypeScript 实现多源数据聚合+AI 分析，统一态势感知界面
+2026-W31,3,diegosouzapw/OmniRoute,TypeScript,10912,31052,AI 网关,免费 AI 网关，290+ 供应商 500+ 模型，智能故障转移+token 压缩,TypeScript 聚合 290+ AI 供应商统一端点，RTK+Caveman 压缩省 15-95% token
+2026-W31,4,mattpocock/skills,Shell,12238,189601,Agent 技能,面向工程师的生产级 Agent 技能库,从 .agents 目录提取实战技能，安装到 Claude Code/Cursor/Codex
+2026-W31,5,Nutlope/hallmark,CSS,4932,18242,Agent 技能 / 设计,反 AI 味设计技能，为编码 Agent 注入专业审美,设计规则体系作为 Agent 技能，拦截 AI 平庸输出
+2026-W31,6,stablyai/orca,TypeScript,7392,29727,Agent 并行调度,并行 Agent 舰队管理 ADE，桌面+移动+VPS 端,TypeScript 实现多 Agent 并行调度管理，跨平台运行
+2026-W31,7,tirth8205/code-review-graph,Python,6006,26606,代码智能 / MCP,本地优先代码知识图谱，为 MCP 和 CLI 构建,Python 构建代码库持久知识图谱，MCP 暴露查询，上下文缩减
+2026-W31,8,ruvnet/RuView,Rust,5497,86644,WiFi 空间感知,WiFi 信号实时空间智能+体征监测+存在检测，无摄像头,Rust 实现 WiFi CSI 信号解析为空间/体征/存在三维智能
+2026-W31,9,earendil-works/pi,TypeScript,5389,78083,Agent 工具包,统一 LLM API+Agent 循环+TUI+编码 Agent CLI,TypeScript 实现一站式 Agent 工具包，统一 API+循环+TUI
+2026-W31,10,rohitg00/ai-engineering-from-scratch,Python,4317,43771,AI 工程教程,Learn it. Build it. Ship it. 从零开始学 AI 工程,系统化从零构建 AI 工程技能，实操导向全栈教程
+2026-W31,11,every-app/open-seo,TypeScript,3639,8243,SEO 工具,开源 Semrush/Ahrefs 替代品,TypeScript 实现开源 SEO 分析，替代商业工具
+2026-W31,12,1jehuang/jcode,Rust,2909,11668,编码 Agent,最智能的 Agent 编码 harness,Rust 实现高性能 Agent 编码框架，智能调度
+2026-W31,13,schollz/croc,Go,2993,38663,文件传输,轻松安全地在电脑间传输文件,Go 实现 P2P 加密文件传输，无需服务器
+2026-W31,14,ComposioHQ/awesome-claude-skills,Python,2820,70905,Agent 技能策展,Claude Skills 资源与工具策展合集,策展式组织多领域 Claude 技能为可安装 Agent 插件集合
+2026-W31,15,HKUDS/DeepTutor,Python,2199,30083,AI 教育 Agent,终身个性化辅导 Agent,自适应学习路径+实时反馈，持续个性化教学
+2026-W31,16,earthtojake/text-to-cad,JavaScript,2169,10541,CAD Agent 技能,CAD/机器人/硬件设计的 Agent 技能集合,文本到 CAD 模型的 Agent 技能集，面向硬件设计
+2026-W31,17,MoonshotAI/kimi-code,TypeScript,1380,5191,编码 Agent,Kimi Code CLI — 下一代 Agent 起点,TypeScript 实现 Kimi 编码 Agent CLI，AI 驱动代码生成
+2026-W31,18,shiyu-coder/Kronos,Python,1768,34173,金融 LLM,金融市场语言基础模型,Python 实现金融时序数据预训练模型，市场语言理解
+2026-W31,19,Pumpkin-MC/Pumpkin,Rust,1883,10007,Minecraft 服务器,快速高效 Minecraft 服务器托管,Rust 实现高性能 Minecraft 服务器，资源效率优先
+2026-W31,20,agegr/pi-web,TypeScript,1551,2874,Agent UI,pi 编码 Agent 的 Web UI,TypeScript 实现 pi Agent 的可视化 Web 界面
+2026-W32,1,block/buzz,Rust,8217,21107,Agent 协同通信,让多 Agent/服务以蜂巢思维协同通信与调度,Rust 实现去中心化消息层，K8s/桌面/中继联邦通信
+2026-W32,2,virgiliojr94/book-to-skill,Python,5223,15363,Agent 技能/知识工程,把技术书 PDF 转成可直接使用的 Claude Code 技能,解析 PDF 章节→生成 SKILL.md 指令与参考文档
+2026-W32,3,ayghri/i-have-adhd,Python,5225,15694,Agent 技能,防止编码 Agent 把答案埋进冗长输出,提示约束 Agent 先给结论再展开，结构化 ADHD 友好输出
+2026-W32,4,microsoft/AI-For-Beginners,Jupyter Notebook,5601,59039,AI 教程,12 周 24 课面向零基础人群的 AI 入门课程,微软开源结构化课程，Notebook 实操+图解
+2026-W32,5,bojieli/ai-agent-book,Python,9298,29924,AI Agent 教程,系统化开源 AI Agent 设计原理与工程实践教材,全书正文+编译版 PDF+按章配套代码，李博杰著
+2026-W32,6,1jehuang/jcode,Rust,3620,15276,编码 Agent/性能,极致内存效率的 Agent 编码 harness,Rust 实现低内存占用 Agent 执行运行时
+2026-W32,7,pascalorg/editor,TypeScript,3163,20746,3D 编辑器/建筑,创建并分享 3D 建筑项目,TypeScript 实现浏览器端 3D 建筑编辑与协作
+2026-W32,8,alibaba/open-code-review,Go,4365,17892,AI 代码审查,阿里规模验证的确定性流水线+LLM Agent 混合代码审查,Go 实现确定性流水线+LLM 行级评论，内置多语言规则集
+2026-W32,9,permissionlesstech/bitchat,Swift,4942,34157,去中心化通讯,基于蓝牙 mesh 的离线去中心化聊天,Swift 实现蓝牙 mesh 自组网，设备间中继消息无服务器
+2026-W32,10,moeru-ai/airi,TypeScript,3431,46546,AI 伴侣/虚拟生命,自托管 AI 虚拟伴侣，支持实时语音与游戏互动,TypeScript 实现可自托管 Agent，实时语音+游戏环境交互
+2026-W32,11,andrewyng/aisuite,Python,576,15901,LLM 统一接口,统一调用多家生成式 AI 提供商的简单接口,Python 提供 provider 适配层，单一 API 切换模型后端
+2026-W32,12,opengeos/GeoLibre,TypeScript,2933,4979,GIS 地理信息,轻量云原生 GIS 平台可视化分析地理空间数据,TypeScript 实现浏览器/桌面/移动/Jupyter 多端 GIS 引擎
+2026-W32,13,citrolabs/ego-lite,JavaScript,3582,7675,浏览器 Agent/自动化,给 AI Agent 共享登录态的最快浏览器自动化,轻量浏览器内核，零成本零配置共享登录态给 Agent
+2026-W32,14,pingdotgg/t3code,TypeScript,1431,16348,编码 Agent 控制面,多平台远程控制本机编码 Agent 的控制面,TypeScript 实现移动/Web/Electron 桌面端，统一接入多 Agent harness
+2026-W32,15,diegosouzapw/OmniRoute,TypeScript,7141,37911,AI 网关,一个端点聚合 290+ 供应商 500+ 模型的免费 AI 网关,MIT 网关统一端点，配额感知回退+token 压缩(MCP/A2A)
+2026-W32,16,earthtojake/text-to-cad,JavaScript,2063,12522,CAD Agent 技能,CAD/CAE/CAM 设计的 Agent 技能库,文本到 CAD 模型的 Agent 技能集，面向硬件设计
+2026-W32,17,microsoft/TRELLIS.2,Python,1106,10163,3D 生成/基础模型,原生紧凑结构化潜变量驱动的 3D 生成模型,Python 实现结构化潜表示，提升 3D 生成质量与紧凑性
+2026-W32,18,different-ai/openwork,TypeScript,2925,20319,Agent 协作文档,开源版 Claude Cowork，协作文档式 Agent 工作流,TypeScript 基于 opencode 实现文档驱动 Agent 任务流
+2026-W32,19,permissionlesstech/bitchat-android,Kotlin,928,7258,去中心化通讯,安卓端去中心化蓝牙 mesh 聊天,Kotlin 实现蓝牙 mesh 自组网消息中继

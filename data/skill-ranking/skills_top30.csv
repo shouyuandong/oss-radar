@@ -1,31 +1,31 @@
 rank,skill,owner_repo,installs,installs_raw,stars,category,purpose,url
-1,find-skills,vercel-labs/skills,2600000,2.6M,25938,技能发现工具,技能发现与安装入口,https://www.skills.sh/vercel-labs/skills/find-skills
-2,frontend-design,anthropics/skills,682100,682.1K,160580,前端设计（官方）,Anthropic 官方前端设计技能,https://www.skills.sh/anthropics/skills/frontend-design
-3,grill-me,mattpocock/skills,598600,598.6K,166831,代码审查,让 AI 严格审查代码,https://www.skills.sh/mattpocock/skills/grill-me
-4,vercel-react-best-practices,vercel-labs/agent-skills,563500,563.5K,28985,React 最佳实践（官方）,Vercel 官方 React 最佳实践,https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices
-5,agent-browser,vercel-labs/agent-browser,560000,560.0K,38333,浏览器 Agent,让 Agent 控制浏览器,https://www.skills.sh/vercel-labs/agent-browser/agent-browser
-6,grill-with-docs,mattpocock/skills,506700,506.7K,166831,文档审查,结合文档审查代码,https://www.skills.sh/mattpocock/skills/grill-with-docs
-7,improve-codebase-architecture,mattpocock/skills,494200,494.2K,166831,架构优化,分析改进代码库架构,https://www.skills.sh/mattpocock/skills/improve-codebase-architecture
-8,web-design-guidelines,vercel-labs/agent-skills,475000,475.0K,28985,Web 设计规范,Web 设计规范指南,https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines
-9,tdd,mattpocock/skills,474400,474.4K,166831,TDD,测试驱动开发,https://www.skills.sh/mattpocock/skills/tdd
-10,microsoft-foundry,microsoft/azure-skills,465200,465.2K,1273,Azure AI（官方）,Azure AI Foundry 技能,https://www.skills.sh/microsoft/azure-skills/microsoft-foundry
-11,remotion-best-practices,remotion-dev/skills,434100,434.1K,3929,视频编程,Remotion 视频编程最佳实践,https://www.skills.sh/remotion-dev/skills/remotion-best-practices
-12,setup-matt-pocock-skills,mattpocock/skills,428000,428.0K,166831,技能安装器,一键安装 Matt Pocock 全套技能,https://www.skills.sh/mattpocock/skills/setup-matt-pocock-skills
-13,azure-hosted-copilot-sdk,microsoft/azure-skills,421400,421.4K,1273,Azure Copilot SDK（官方）,Azure 托管 Copilot SDK 技能,https://www.skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk
-14,azure-compute,microsoft/azure-skills,403700,403.7K,1273,Azure 计算（官方）,Azure 计算服务开发技能,https://www.skills.sh/microsoft/azure-skills/azure-compute
-15,triage,mattpocock/skills,399400,399.4K,166831,问题分流,自动分流分类问题,https://www.skills.sh/mattpocock/skills/triage
-16,handoff,mattpocock/skills,393600,393.6K,166831,代码交接,生成代码交接文档,https://www.skills.sh/mattpocock/skills/handoff
-17,azure-cloud-migrate,microsoft/azure-skills,393600,393.6K,1273,Azure 迁移（官方）,Azure 云迁移技能,https://www.skills.sh/microsoft/azure-skills/azure-cloud-migrate
-18,prototype,mattpocock/skills,380600,380.6K,166831,原型设计,快速原型设计技能,https://www.skills.sh/mattpocock/skills/prototype
-19,lark-doc,larksuite/cli,375400,375.4K,15508,飞书文档,飞书文档操作技能,https://www.skills.sh/larksuite/cli/lark-doc
-20,caveman,juliusbrussee/caveman,363600,363.6K,88547,Token 压缩,穴居人语言压缩 65% token,https://www.skills.sh/juliusbrussee/caveman/caveman
-21,to-prd,mattpocock/skills,358400,358.4K,166831,产品需求,生成产品需求文档,https://www.skills.sh/mattpocock/skills/to-prd
-22,to-issues,mattpocock/skills,345700,345.7K,166831,Issue 生成,生成 GitHub Issue,https://www.skills.sh/mattpocock/skills/to-issues
-23,lark-approval,larksuite/cli,344100,344.1K,15508,飞书审批,飞书审批流程技能,https://www.skills.sh/larksuite/cli/lark-approval
-24,azure-quotas,microsoft/azure-skills,330100,330.1K,1273,Azure 配额（官方）,Azure 配额管理技能,https://www.skills.sh/microsoft/azure-skills/azure-quotas
-25,lark-slides,larksuite/cli,324000,324.0K,15508,飞书幻灯片,飞书幻灯片操作技能,https://www.skills.sh/larksuite/cli/lark-slides
-26,azure-upgrade,microsoft/azure-skills,322600,322.6K,1273,Azure 升级（官方）,Azure 升级迁移技能,https://www.skills.sh/microsoft/azure-skills/azure-upgrade
-27,lark-attendance,larksuite/cli,322400,322.4K,15508,飞书考勤,飞书考勤管理技能,https://www.skills.sh/larksuite/cli/lark-attendance
-28,skill-creator,anthropics/skills,320100,320.1K,160580,技能创建（官方）,Anthropic 官方技能创建工具,https://www.skills.sh/anthropics/skills/skill-creator
-29,lark-okr,larksuite/cli,308100,308.1K,15508,飞书 OKR,飞书 OKR 管理技能,https://www.skills.sh/larksuite/cli/lark-okr
-30,azure-enterprise-infra-planner,microsoft/azure-skills,296600,296.6K,1273,Azure 企业架构（官方）,Azure 企业架构规划技能,https://www.skills.sh/microsoft/azure-skills/azure-enterprise-infra-planner
+1,find-skills,vercel-labs/skills,2800000,2.8M,27856,技能发现工具,技能发现与安装入口,https://www.skills.sh/vercel-labs/skills/find-skills
+2,frontend-design,anthropics/skills,733100,733.1K,165821,前端设计（官方）,Anthropic 官方前端设计技能,https://www.skills.sh/anthropics/skills/frontend-design
+3,grill-me,mattpocock/skills,731400,731.4K,199929,代码审查,让 AI 严格审查代码,https://www.skills.sh/mattpocock/skills/grill-me
+4,grill-with-docs,mattpocock/skills,620700,620.7K,199929,文档审查,结合文档审查代码,https://www.skills.sh/mattpocock/skills/grill-with-docs
+5,agent-browser,vercel-labs/agent-browser,614700,614.7K,39778,浏览器 Agent,让 Agent 控制浏览器,https://www.skills.sh/vercel-labs/agent-browser/agent-browser
+6,vercel-react-best-practices,vercel-labs/agent-skills,599900,599.9K,29694,React 最佳实践（官方）,Vercel 官方 React 最佳实践,https://www.skills.sh/vercel-labs/agent-skills/vercel-react-best-practices
+7,improve-codebase-architecture,mattpocock/skills,598300,598.3K,199929,架构优化,分析改进代码库架构,https://www.skills.sh/mattpocock/skills/improve-codebase-architecture
+8,tdd,mattpocock/skills,576500,576.5K,199929,TDD,测试驱动开发,https://www.skills.sh/mattpocock/skills/tdd
+9,ai-video-generation,101-skills/skills,548500,548.5K,675,AI 视频生成,用 AI 生成视频内容,https://www.skills.sh/101-skills/skills/ai-video-generation
+10,setup-matt-pocock-skills,mattpocock/skills,526300,526.3K,199929,技能安装器,一键安装 Matt Pocock 全套技能,https://www.skills.sh/mattpocock/skills/setup-matt-pocock-skills
+11,web-design-guidelines,vercel-labs/agent-skills,509900,509.9K,29694,Web 设计规范,Web 设计规范指南,https://www.skills.sh/vercel-labs/agent-skills/web-design-guidelines
+12,microsoft-foundry,microsoft/azure-skills,499500,499.5K,1349,Azure AI（官方）,Azure AI Foundry 技能,https://www.skills.sh/microsoft/azure-skills/microsoft-foundry
+13,azure-validate,microsoft/azure-skills,494200,494.2K,1349,Azure 验证（官方）,验证 Azure 资源与配置,https://www.skills.sh/microsoft/azure-skills/azure-validate
+14,handoff,mattpocock/skills,493600,493.6K,199929,代码交接,生成代码交接文档,https://www.skills.sh/mattpocock/skills/handoff
+15,azure-aigateway,microsoft/azure-skills,493500,493.5K,1349,Azure AI 网关（官方）,Azure AI 网关开发技能,https://www.skills.sh/microsoft/azure-skills/azure-aigateway
+16,azure-kusto,microsoft/azure-skills,493400,493.4K,1349,Azure 数据查询（官方）,Kusto/KQL 数据查询技能,https://www.skills.sh/microsoft/azure-skills/azure-kusto
+17,azure-resource-visualizer,microsoft/azure-skills,493300,493.3K,1349,Azure 资源可视化（官方）,可视化 Azure 资源拓扑,https://www.skills.sh/microsoft/azure-skills/azure-resource-visualizer
+18,triage,mattpocock/skills,491900,491.9K,199929,问题分流,自动分流分类问题,https://www.skills.sh/mattpocock/skills/triage
+19,azure-messaging,microsoft/azure-skills,483100,483.1K,1349,Azure 消息（官方）,Azure 消息服务集成技能,https://www.skills.sh/microsoft/azure-skills/azure-messaging
+20,prototype,mattpocock/skills,476200,476.2K,199929,原型设计,快速原型设计技能,https://www.skills.sh/mattpocock/skills/prototype
+21,azure-rbac,microsoft/azure-skills,474500,474.5K,1349,Azure 权限（官方）,Azure RBAC 角色权限管理,https://www.skills.sh/microsoft/azure-skills/azure-rbac
+22,remotion-best-practices,remotion-dev/skills,459900,459.9K,4180,视频编程,Remotion 视频编程最佳实践,https://www.skills.sh/remotion-dev/skills/remotion-best-practices
+23,azure-compute,microsoft/azure-skills,437300,437.3K,1349,Azure 计算（官方）,Azure 计算服务开发技能,https://www.skills.sh/microsoft/azure-skills/azure-compute
+24,azure-hosted-copilot-sdk,microsoft/azure-skills,429700,429.7K,1349,Azure Copilot SDK（官方）,Azure 托管 Copilot SDK 技能,https://www.skills.sh/microsoft/azure-skills/azure-hosted-copilot-sdk
+25,azure-cloud-migrate,microsoft/azure-skills,427000,427.0K,1349,Azure 迁移（官方）,Azure 云迁移技能,https://www.skills.sh/microsoft/azure-skills/azure-cloud-migrate
+26,caveman,juliusbrussee/caveman,403100,403.1K,95282,Token 压缩,穴居人语言压缩 65% token,https://www.skills.sh/juliusbrussee/caveman/caveman
+27,lark-doc,larksuite/cli,398400,398.4K,16065,飞书文档,飞书文档操作技能,https://www.skills.sh/larksuite/cli/lark-doc
+28,teach,mattpocock/skills,366800,366.8K,199929,教学/知识传递,让 Agent 分步骤教学讲解,https://www.skills.sh/mattpocock/skills/teach
+29,lark-approval,larksuite/cli,365900,365.9K,16065,飞书审批,飞书审批流程技能,https://www.skills.sh/larksuite/cli/lark-approval
+30,azure-quotas,microsoft/azure-skills,363400,363.4K,1349,Azure 配额（官方）,Azure 配额管理技能,https://www.skills.sh/microsoft/azure-skills/azure-quotas

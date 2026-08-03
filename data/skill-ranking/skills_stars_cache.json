@@ -1,1 +1,17 @@
-{"vercel-labs/skills": 25938, "anthropics/skills": 160580, "vercel-labs/agent-skills": 28985, "vercel-labs/agent-browser": 38333, "mattpocock/skills": 166831, "microsoft/azure-skills": 1273, "remotion-dev/skills": 3929, "juliusbrussee/caveman": 88547, "larksuite/cli": 15508, "101-skills/skills": 600, "getpaperclipai/paperclip": 1, "heygen-com/hyperframes": 34476, "lllllllama/rigorpilot-skills": 506, "leonxlnx/taste-skill": 62494, "emilkowalski/skills": 11413, "browser-act/skills": 4326, "nexscope-ai/amazon-skills": 386, "stablyai/orca": 17008, "microsoft/playwright-cli": 11947, "wind-information-co-ltd/wind-skills": 60, "nexscope-ai/ecommerce-skills": 360, "open.feishu.cn": "\u2014"}
+{
+  "vercel-labs/skills": 27856,
+  "anthropics/skills": 165821,
+  "mattpocock/skills": 199929,
+  "vercel-labs/agent-browser": 39778,
+  "vercel-labs/agent-skills": 29694,
+  "101-skills/skills": 675,
+  "microsoft/azure-skills": 1349,
+  "remotion-dev/skills": 4180,
+  "juliusbrussee/caveman": 95282,
+  "larksuite/cli": 16065,
+  "heygen-com/hyperframes": 39203,
+  "supabase/agent-skills": 2466,
+  "leonxlnx/taste-skill": 70438,
+  "obra/superpowers": 265161,
+  "nextlevelbuilder/ui-ux-pro-max-skill": 112715
+}
